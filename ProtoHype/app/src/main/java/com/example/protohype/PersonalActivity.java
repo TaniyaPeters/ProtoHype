@@ -10,4 +10,6 @@ public class PersonalActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_personal);
     }
+
+    //add code to change the textbox
 }

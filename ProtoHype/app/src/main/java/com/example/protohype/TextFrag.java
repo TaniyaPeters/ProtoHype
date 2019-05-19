@@ -14,5 +14,8 @@ public class TextFrag extends Fragment {
     @Override
     public View onCreateView(@NonNull LayoutInflater inflater, @Nullable ViewGroup container, @Nullable Bundle savedInstanceState) {
         return inflater.inflate(R.layout.fragment_text, container, false);
+
+        // Add code here to change a text box in the Personal Activity
+
     }
 }
