@@ -1,22 +1,43 @@
 package com.example.protohype;
 
+import android.content.Intent;
 import android.os.Bundle;
 import android.support.annotation.NonNull;
 import android.support.annotation.Nullable;
 import android.support.v4.app.Fragment;
+import android.util.Log;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
+import android.widget.Button;
 
-public class SettingsFrag extends Fragment {
+import com.google.firebase.auth.FirebaseAuth;
+
+public class SettingsFrag extends Fragment implements View.OnClickListener {
+
+    private FirebaseAuth mAuth;
 
     @Nullable
     @Override
     public View onCreateView(@NonNull LayoutInflater inflater, @Nullable ViewGroup container, @Nullable Bundle savedInstanceState) {
-        return inflater.inflate(R.layout.fragment_settings, container, false);
+        View v = inflater.inflate(R.layout.fragment_settings, container, false);
+
+        // Initialize Firebase Auth
+        mAuth = FirebaseAuth.getInstance();
+
+        Button logoutButton = v.findViewById(R.id.sign_out_button);
+        logoutButton.setOnClickListener(this);
+
+        return v;
     }
 
-    public void onViewProfile(View v){
-        
+    @Override
+    public void onClick(View v){
+        switch(v.getId()){
+            case R.id.sign_out_button:
+                mAuth.signOut();
+                startActivity(new Intent(getActivity(), MainActivity.class));
+                break;
+        }
     }
 }
