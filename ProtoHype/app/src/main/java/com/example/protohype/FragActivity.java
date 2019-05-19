@@ -25,7 +25,7 @@ public class FragActivity extends AppCompatActivity {
                     selectedFragment = new SearchFrag();
                     break;
                 case R.id.navigation_personal:
-                    selectedFragment = new PersonalFrag();
+                    selectedFragment = new SettingsFrag();
                     break;
                 case R.id.navigation_home:
                     selectedFragment = new HomeFrag();

@@ -19,4 +19,8 @@
     <string name="edit_profile_picture">Edit Profile Picture</string>
     <string name="edit_cover_picture">Edit Cover Picture</string>
     <string name="sign_out">Sign Out</string>
+    <string name="sign_out">Sign Out</string>
+    <string name="view_profile">View Profile</string>
+    <string name="edit_cover_picture">Edit Cover Picture</string>
+    <string name="edit_profile_picture">Edit Profile Picture</string>
 </resources>
