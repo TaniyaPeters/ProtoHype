@@ -30,7 +30,8 @@
         android:layout_height="71dp"
         android:background="@color/colorPrimary"
         android:gravity="center"
-        android:text="View Profile"
+        android:onClick="onViewProfile"
+        android:text="@string/view_profile"
         android:textAlignment="center"
         android:textSize="18sp" />
 
@@ -44,7 +45,7 @@
         android:layout_width="match_parent"
         android:layout_height="72dp"
         android:background="@color/colorPrimary"
-        android:text="Edit Profile Picture"
+        android:text="@string/edit_profile_picture"
         android:textAlignment="center"
         android:textSize="18sp" />
 
@@ -58,7 +59,7 @@
         android:layout_width="match_parent"
         android:layout_height="71dp"
         android:background="@color/colorPrimary"
-        android:text="Edit Cover Picture"
+        android:text="@string/edit_cover_picture"
         android:textAlignment="center"
         android:textSize="18sp" />
 
@@ -72,7 +73,7 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:background="@color/colorPrimaryDark"
-        android:text="Sign Out"
+        android:text="@string/sign_out"
         android:textColor="@color/colorTextDarkBG"
         android:textSize="18sp" />
 
