@@ -8,7 +8,7 @@
 
     <item
         android:id="@+id/navigation_search"
-        android:icon="@drawable/ic_notifications_black_24dp"
+        android:icon="@drawable/ic_search_black_24dp"
         android:title="@string/title_search" />
 
     <item
@@ -18,12 +18,12 @@
 
     <item
         android:id="@+id/navigation_social"
-        android:icon="@drawable/ic_notifications_black_24dp"
+        android:icon="@drawable/ic_people_outline_black_24dp"
         android:title="@string/title_social" />
 
     <item
         android:id="@+id/navigation_personal"
-        android:icon="@drawable/ic_home_black_24dp"
+        android:icon="@drawable/ic_settings_black_24dp"
         android:title="@string/title_personal" />
 
 </menu>
