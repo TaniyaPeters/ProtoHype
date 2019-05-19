@@ -55,7 +55,7 @@
                     android:layout_width="match_parent"
                     android:layout_height="200dp"
                     android:layout_marginTop="60dp"
-                    android:src="@drawable/FarmerJohn"
+                    android:src="@drawable/farmer_john"
                     app:civ_border_color="@color/colorAccent"
                     app:civ_border_width="10dp" />
 
@@ -67,7 +67,7 @@
                 android:layout_height="50dp"
                 android:fontFamily="@font/roboto_bold"
                 android:gravity="center"
-                android:text="@string/producer_name"
+                android:text="Farmer John"
                 android:textColor="@color/colorPrimaryDark"
                 android:textSize="36sp" />
 
