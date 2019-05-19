@@ -1,0 +1,5682 @@
+[
+  {
+    "PLU_Code": 3000,
+    "Name": "Alkmene Apples"
+  },
+  {
+    "PLU_Code": 3001,
+    "Name": "Small Aurora/Southern Rose Apples"
+  },
+  {
+    "PLU_Code": 3002,
+    "Name": "Cantared Apples"
+  },
+  {
+    "PLU_Code": 3003,
+    "Name": "D'Estivale Apples"
+  },
+  {
+    "PLU_Code": 3004,
+    "Name": "Discovery Apples"
+  },
+  {
+    "PLU_Code": 3005,
+    "Name": "Golden Delicious Blush Apples"
+  },
+  {
+    "PLU_Code": 3006,
+    "Name": "Ingrid Marie Apples"
+  },
+  {
+    "PLU_Code": 3007,
+    "Name": "Lochbuie Apples"
+  },
+  {
+    "PLU_Code": 3008,
+    "Name": "Rubinette Apples"
+  },
+  {
+    "PLU_Code": 3009,
+    "Name": "Russet Apples"
+  },
+  {
+    "PLU_Code": 3010,
+    "Name": "Small Cripps Red Apples"
+  },
+  {
+    "PLU_Code": 3011,
+    "Name": "Worcester Apples"
+  },
+  {
+    "PLU_Code": 3012,
+    "Name": "Abate Fetel Pears"
+  },
+  {
+    "PLU_Code": 3013,
+    "Name": "Beurre Hardy Pears"
+  },
+  {
+    "PLU_Code": 3014,
+    "Name": "Bon Rouge Pears"
+  },
+  {
+    "PLU_Code": 3015,
+    "Name": "Clara Friis Pears"
+  },
+  {
+    "PLU_Code": 3016,
+    "Name": "Concorde Pears"
+  },
+  {
+    "PLU_Code": 3017,
+    "Name": "Conference Pears"
+  },
+  {
+    "PLU_Code": 3018,
+    "Name": "Durondeau Pears"
+  },
+  {
+    "PLU_Code": 3019,
+    "Name": "Flamingo Pears"
+  },
+  {
+    "PLU_Code": 3020,
+    "Name": "General Leclerc Pears"
+  },
+  {
+    "PLU_Code": 3021,
+    "Name": "Guyot Pears"
+  },
+  {
+    "PLU_Code": 3022,
+    "Name": "Josephine Pears"
+  },
+  {
+    "PLU_Code": 3023,
+    "Name": "Small Passe Crassane Pears"
+  },
+  {
+    "PLU_Code": 3024,
+    "Name": "Rocha Pears"
+  },
+  {
+    "PLU_Code": 3025,
+    "Name": "Rosemarie Pears"
+  },
+  {
+    "PLU_Code": 3026,
+    "Name": "Triumph de Vienne Pears"
+  },
+  {
+    "PLU_Code": 3027,
+    "Name": "Shamouti Oranges"
+  },
+  {
+    "PLU_Code": 3028,
+    "Name": "Small Delta Seedless Oranges"
+  },
+  {
+    "PLU_Code": 3029,
+    "Name": "Satsuma Tangerines/mandarins"
+  },
+  {
+    "PLU_Code": 3030,
+    "Name": "Nova Tangerines/mandarins"
+  },
+  {
+    "PLU_Code": 3031,
+    "Name": "Jamaican Tangor Tangerines/mandarins"
+  },
+  {
+    "PLU_Code": 3032,
+    "Name": "Ellendale Tangerines/mandarins"
+  },
+  {
+    "PLU_Code": 3033,
+    "Name": "Small Charentais Melon"
+  },
+  {
+    "PLU_Code": 3034,
+    "Name": "Large Charentais Melon"
+  },
+  {
+    "PLU_Code": 3035,
+    "Name": "Large White Flesh, Tree Ripened, Ready-to-eat Nectarine"
+  },
+  {
+    "PLU_Code": 3036,
+    "Name": "Small Midknight Oranges"
+  },
+  {
+    "PLU_Code": 3037,
+    "Name": "Queen Pineapple"
+  },
+  {
+    "PLU_Code": 3038,
+    "Name": "Granadilla/Grenadilla Passion fruit"
+  },
+  {
+    "PLU_Code": 3039,
+    "Name": "Physalis/cape gooseberry/ground cherry"
+  },
+  {
+    "PLU_Code": 3040,
+    "Name": "Red (skin color) Pitahaya"
+  },
+  {
+    "PLU_Code": 3041,
+    "Name": "Rambutan"
+  },
+  {
+    "PLU_Code": 3042,
+    "Name": "Mangosteen"
+  },
+  {
+    "PLU_Code": 3043,
+    "Name": "Italia Grapes"
+  },
+  {
+    "PLU_Code": 3044,
+    "Name": "Black Apricots"
+  },
+  {
+    "PLU_Code": 3045,
+    "Name": "Fresh Dates"
+  },
+  {
+    "PLU_Code": 3046,
+    "Name": "Fresh Dates"
+  },
+  {
+    "PLU_Code": 3047,
+    "Name": "Medjool Dates"
+  },
+  {
+    "PLU_Code": 3048,
+    "Name": "Helda/Flat Beans"
+  },
+  {
+    "PLU_Code": 3049,
+    "Name": "Fine Beans"
+  },
+  {
+    "PLU_Code": 3050,
+    "Name": "Dutch White/Winter White Cabbage"
+  },
+  {
+    "PLU_Code": 3051,
+    "Name": "Spring Cabbage/Spring Greens Cabbage"
+  },
+  {
+    "PLU_Code": 3052,
+    "Name": "String Garlic"
+  },
+  {
+    "PLU_Code": 3053,
+    "Name": "Baby Parsnip"
+  },
+  {
+    "PLU_Code": 3054,
+    "Name": "Elongated Peppers (capsicums)"
+  },
+  {
+    "PLU_Code": 3055,
+    "Name": "Elongated Peppers (capsicums)"
+  },
+  {
+    "PLU_Code": 3056,
+    "Name": "Elongated Peppers (capsicums)"
+  },
+  {
+    "PLU_Code": 3057,
+    "Name": "Elongated Peppers (capsicums)"
+  },
+  {
+    "PLU_Code": 3058,
+    "Name": "Elongated Peppers (capsicums)"
+  },
+  {
+    "PLU_Code": 3059,
+    "Name": "Crown Prince Squash"
+  },
+  {
+    "PLU_Code": 3060,
+    "Name": "Vegetable Marrow Squash"
+  },
+  {
+    "PLU_Code": 3061,
+    "Name": "Beef/Beefsteak Tomatoes"
+  },
+  {
+    "PLU_Code": 3062,
+    "Name": "Bay leaves"
+  },
+  {
+    "PLU_Code": 3063,
+    "Name": "Fennel leaves"
+  },
+  {
+    "PLU_Code": 3064,
+    "Name": "Aloe vera leaves"
+  },
+  {
+    "PLU_Code": 3065,
+    "Name": "Small Cameo Apples"
+  },
+  {
+    "PLU_Code": 3066,
+    "Name": "Large Cameo Apples"
+  },
+  {
+    "PLU_Code": 3067,
+    "Name": "Small Swiss Gourmet Apples"
+  },
+  {
+    "PLU_Code": 3068,
+    "Name": "Large Swiss Gourmet Apples"
+  },
+  {
+    "PLU_Code": 3069,
+    "Name": "Small Gravenstein Apples"
+  },
+  {
+    "PLU_Code": 3070,
+    "Name": "Large Gravenstein Apples"
+  },
+  {
+    "PLU_Code": 3071,
+    "Name": "Granny Smith Apples"
+  },
+  {
+    "PLU_Code": 3072,
+    "Name": "Lady Apples"
+  },
+  {
+    "PLU_Code": 3073,
+    "Name": "Macoun Apples"
+  },
+  {
+    "PLU_Code": 3074,
+    "Name": "Greening (RI) Apples"
+  },
+  {
+    "PLU_Code": 3075,
+    "Name": "Baldwin Apples"
+  },
+  {
+    "PLU_Code": 3076,
+    "Name": "Melrose Apples"
+  },
+  {
+    "PLU_Code": 3077,
+    "Name": "Northern Spy Apples"
+  },
+  {
+    "PLU_Code": 3078,
+    "Name": "Liberty Apples"
+  },
+  {
+    "PLU_Code": 3079,
+    "Name": "Purple Asparagus"
+  },
+  {
+    "PLU_Code": 3080,
+    "Name": "Pinkerton Avocados"
+  },
+  {
+    "PLU_Code": 3081,
+    "Name": "Saskatoon Berries"
+  },
+  {
+    "PLU_Code": 3082,
+    "Name": "Crowns Broccoli"
+  },
+  {
+    "PLU_Code": 3083,
+    "Name": "Stalk Brussels sprouts"
+  },
+  {
+    "PLU_Code": 3084,
+    "Name": "Chervil"
+  },
+  {
+    "PLU_Code": 3085,
+    "Name": "Large Indian Corn"
+  },
+  {
+    "PLU_Code": 3086,
+    "Name": "Mini Indian Corn"
+  },
+  {
+    "PLU_Code": 3087,
+    "Name": "Indian Corn"
+  },
+  {
+    "PLU_Code": 3088,
+    "Name": "Red Currants"
+  },
+  {
+    "PLU_Code": 3089,
+    "Name": "Chinese Eggplant (aubergine)"
+  },
+  {
+    "PLU_Code": 3090,
+    "Name": "Thai Eggplant (aubergine)"
+  },
+  {
+    "PLU_Code": 3091,
+    "Name": "Gobo root/burdock"
+  },
+  {
+    "PLU_Code": 3092,
+    "Name": "OroBlanco/Sweetie Grapefruit"
+  },
+  {
+    "PLU_Code": 3093,
+    "Name": "Retailer Assigned Grapes"
+  },
+  {
+    "PLU_Code": 3094,
+    "Name": "Retailer Assigned Grapes"
+  },
+  {
+    "PLU_Code": 3095,
+    "Name": "Multicolor Kale"
+  },
+  {
+    "PLU_Code": 3096,
+    "Name": "Purple/Red/All Other Colors Kohlrabi"
+  },
+  {
+    "PLU_Code": 3097,
+    "Name": "Romaine Lettuce"
+  },
+  {
+    "PLU_Code": 3098,
+    "Name": "Boston Lettuce"
+  },
+  {
+    "PLU_Code": 3099,
+    "Name": "Lotus root"
+  },
+  {
+    "PLU_Code": 3100,
+    "Name": "Gold Honeydew Melon"
+  },
+  {
+    "PLU_Code": 3101,
+    "Name": "Piel de Sapo Melon"
+  },
+  {
+    "PLU_Code": 3102,
+    "Name": "Morel Mushrooms"
+  },
+  {
+    "PLU_Code": 3103,
+    "Name": "Enoki Mushrooms"
+  },
+  {
+    "PLU_Code": 3104,
+    "Name": "RoHo 3615 Apples"
+  },
+  {
+    "PLU_Code": 3105,
+    "Name": "Cashews"
+  },
+  {
+    "PLU_Code": 3106,
+    "Name": "Macadamia"
+  },
+  {
+    "PLU_Code": 3107,
+    "Name": "Medium Navel Oranges"
+  },
+  {
+    "PLU_Code": 3108,
+    "Name": "Medium Valencia Oranges"
+  },
+  {
+    "PLU_Code": 3109,
+    "Name": "Seville (Marmalade type) Oranges"
+  },
+  {
+    "PLU_Code": 3110,
+    "Name": "Navel Oranges"
+  },
+  {
+    "PLU_Code": 3111,
+    "Name": "Red-Fleshed (Solo Sunrise) Papaya/pawpaw"
+  },
+  {
+    "PLU_Code": 3112,
+    "Name": "Meridol Papaya/pawpaw"
+  },
+  {
+    "PLU_Code": 3113,
+    "Name": "Flat White Flesh (Saturn type) Peaches"
+  },
+  {
+    "PLU_Code": 3114,
+    "Name": "Extra Large Green Mango"
+  },
+  {
+    "PLU_Code": 3115,
+    "Name": "Flat Yellow Flesh Peaches"
+  },
+  {
+    "PLU_Code": 3116,
+    "Name": "Small Yellow Flesh Peaches"
+  },
+  {
+    "PLU_Code": 3117,
+    "Name": "Large Yellow Flesh Peaches"
+  },
+  {
+    "PLU_Code": 3118,
+    "Name": "Starkrimson Pears"
+  },
+  {
+    "PLU_Code": 3119,
+    "Name": "Small Bell, Greenhouse Peppers (capsicums)"
+  },
+  {
+    "PLU_Code": 3120,
+    "Name": "Large Bell, Greenhouse Peppers (capsicums)"
+  },
+  {
+    "PLU_Code": 3121,
+    "Name": "Bell, Greenhouse Peppers (capsicums)"
+  },
+  {
+    "PLU_Code": 3122,
+    "Name": "Bell, Greenhouse Peppers (capsicums)"
+  },
+  {
+    "PLU_Code": 3123,
+    "Name": "Bell, Greenhouse Peppers (capsicums)"
+  },
+  {
+    "PLU_Code": 3124,
+    "Name": "Bell, Greenhouse Peppers (capsicums)"
+  },
+  {
+    "PLU_Code": 3125,
+    "Name": "Habanero Peppers (capsicums)"
+  },
+  {
+    "PLU_Code": 3126,
+    "Name": "Retailer Assigned Plumcot (interspecific plum)"
+  },
+  {
+    "PLU_Code": 3127,
+    "Name": "Medium Pomegranate"
+  },
+  {
+    "PLU_Code": 3128,
+    "Name": "Purple Potato"
+  },
+  {
+    "PLU_Code": 3129,
+    "Name": "Pummelo Grapefruit"
+  },
+  {
+    "PLU_Code": 3130,
+    "Name": "Jumbo Pumpkin"
+  },
+  {
+    "PLU_Code": 3131,
+    "Name": "Decorative (Painted) Pumpkin"
+  },
+  {
+    "PLU_Code": 3132,
+    "Name": "White Pumpkin"
+  },
+  {
+    "PLU_Code": 3133,
+    "Name": "White Pumpkin"
+  },
+  {
+    "PLU_Code": 3134,
+    "Name": "Pie Pumpkin Pumpkin"
+  },
+  {
+    "PLU_Code": 3135,
+    "Name": "Ornamental Gourd"
+  },
+  {
+    "PLU_Code": 3136,
+    "Name": "Sapodillo/nispero"
+  },
+  {
+    "PLU_Code": 3137,
+    "Name": "White Sapote"
+  },
+  {
+    "PLU_Code": 3138,
+    "Name": "Black Sapote"
+  },
+  {
+    "PLU_Code": 3139,
+    "Name": "Savory"
+  },
+  {
+    "PLU_Code": 3140,
+    "Name": "Cucuzza Squash"
+  },
+  {
+    "PLU_Code": 3141,
+    "Name": "Opo Squash"
+  },
+  {
+    "PLU_Code": 3142,
+    "Name": "Carnival Squash"
+  },
+  {
+    "PLU_Code": 3143,
+    "Name": "Acorn Squash"
+  },
+  {
+    "PLU_Code": 3144,
+    "Name": "Fall Glo Tangerines/mandarins"
+  },
+  {
+    "PLU_Code": 3145,
+    "Name": "Plum/Italian/Saladette/Roma Tomatoes"
+  },
+  {
+    "PLU_Code": 3146,
+    "Name": "Cherry Tomatoes"
+  },
+  {
+    "PLU_Code": 3147,
+    "Name": "Cherry Tomatoes"
+  },
+  {
+    "PLU_Code": 3148,
+    "Name": "Regular Tomatoes"
+  },
+  {
+    "PLU_Code": 3149,
+    "Name": "Regular Tomatoes"
+  },
+  {
+    "PLU_Code": 3150,
+    "Name": "Cocktail/Intermediate Tomatoes"
+  },
+  {
+    "PLU_Code": 3151,
+    "Name": "Large Vine Ripe, Regular Tomatoes"
+  },
+  {
+    "PLU_Code": 3152,
+    "Name": "Melogold Grapefruit"
+  },
+  {
+    "PLU_Code": 3153,
+    "Name": "Medium Delta Seedless Oranges"
+  },
+  {
+    "PLU_Code": 3154,
+    "Name": "Large Delta Seedless Oranges"
+  },
+  {
+    "PLU_Code": 3155,
+    "Name": "Medium Midknight Oranges"
+  },
+  {
+    "PLU_Code": 3156,
+    "Name": "Large Midknight Oranges"
+  },
+  {
+    "PLU_Code": 3157,
+    "Name": "X-Lrg White Grapefruit"
+  },
+  {
+    "PLU_Code": 3158,
+    "Name": "X-Lrg White Grapefruit"
+  },
+  {
+    "PLU_Code": 3159,
+    "Name": "X-Lrg White Grapefruit"
+  },
+  {
+    "PLU_Code": 3160,
+    "Name": "Synonymous with Chinese Broccoli Gai lan"
+  },
+  {
+    "PLU_Code": 3161,
+    "Name": "Baby Gai (gui) choy (chinese or indian mustard)"
+  },
+  {
+    "PLU_Code": 3162,
+    "Name": "Synonymous with Water Spinach Ong choy"
+  },
+  {
+    "PLU_Code": 3163,
+    "Name": "Shanghai Bok choy (pak choi)"
+  },
+  {
+    "PLU_Code": 3164,
+    "Name": "Yu choy"
+  },
+  {
+    "PLU_Code": 3165,
+    "Name": "Treviso Radicchio"
+  },
+  {
+    "PLU_Code": 3166,
+    "Name": "Tuscan Cabbage"
+  },
+  {
+    "PLU_Code": 3167,
+    "Name": "Frisee"
+  },
+  {
+    "PLU_Code": 3168,
+    "Name": "Castlefranco Radicchio"
+  },
+  {
+    "PLU_Code": 3169,
+    "Name": "Catalogna Lettuce"
+  },
+  {
+    "PLU_Code": 3170,
+    "Name": "Retailer Assigned For use with all commodities"
+  },
+  {
+    "PLU_Code": 3171,
+    "Name": "Retailer Assigned For use with all commodities"
+  },
+  {
+    "PLU_Code": 3172,
+    "Name": "Retailer Assigned For use with all commodities"
+  },
+  {
+    "PLU_Code": 3173,
+    "Name": "Retailer Assigned For use with all commodities"
+  },
+  {
+    "PLU_Code": 3174,
+    "Name": "Retailer Assigned For use with all commodities"
+  },
+  {
+    "PLU_Code": 3175,
+    "Name": "Retailer Assigned For use with all commodities"
+  },
+  {
+    "PLU_Code": 3176,
+    "Name": "Retailer Assigned For use with all commodities"
+  },
+  {
+    "PLU_Code": 3177,
+    "Name": "Retailer Assigned For use with all commodities"
+  },
+  {
+    "PLU_Code": 3178,
+    "Name": "Retailer Assigned For use with all commodities"
+  },
+  {
+    "PLU_Code": 3179,
+    "Name": "Retailer Assigned For use with all commodities"
+  },
+  {
+    "PLU_Code": 3180,
+    "Name": "Retailer Assigned For use with all commodities"
+  },
+  {
+    "PLU_Code": 3181,
+    "Name": "Retailer Assigned For use with all commodities"
+  },
+  {
+    "PLU_Code": 3182,
+    "Name": "Retailer Assigned For use with all commodities"
+  },
+  {
+    "PLU_Code": 3183,
+    "Name": "Retailer Assigned For use with all commodities"
+  },
+  {
+    "PLU_Code": 3184,
+    "Name": "Retailer Assigned For use with all commodities"
+  },
+  {
+    "PLU_Code": 3185,
+    "Name": "Retailer Assigned For use with all commodities"
+  },
+  {
+    "PLU_Code": 3186,
+    "Name": "Retailer Assigned For use with all commodities"
+  },
+  {
+    "PLU_Code": 3187,
+    "Name": "Retailer Assigned For use with all commodities"
+  },
+  {
+    "PLU_Code": 3188,
+    "Name": "Retailer Assigned For use with all commodities"
+  },
+  {
+    "PLU_Code": 3189,
+    "Name": "Retailer Assigned For use with all commodities"
+  },
+  {
+    "PLU_Code": 3190,
+    "Name": "Retailer Assigned For use with all commodities"
+  },
+  {
+    "PLU_Code": 3191,
+    "Name": "Retailer Assigned For use with all commodities"
+  },
+  {
+    "PLU_Code": 3192,
+    "Name": "Retailer Assigned For use with all commodities"
+  },
+  {
+    "PLU_Code": 3193,
+    "Name": "Retailer Assigned For use with all commodities"
+  },
+  {
+    "PLU_Code": 3194,
+    "Name": "Retailer Assigned For use with all commodities"
+  },
+  {
+    "PLU_Code": 3195,
+    "Name": "Retailer Assigned For use with all commodities"
+  },
+  {
+    "PLU_Code": 3196,
+    "Name": "Retailer Assigned For use with all commodities"
+  },
+  {
+    "PLU_Code": 3197,
+    "Name": "Retailer Assigned For use with all commodities"
+  },
+  {
+    "PLU_Code": 3198,
+    "Name": "Retailer Assigned For use with all commodities"
+  },
+  {
+    "PLU_Code": 3199,
+    "Name": "Retailer Assigned For use with all commodities"
+  },
+  {
+    "PLU_Code": 3200,
+    "Name": "Retailer Assigned For use with all commodities"
+  },
+  {
+    "PLU_Code": 3201,
+    "Name": "Retailer Assigned For use with all commodities"
+  },
+  {
+    "PLU_Code": 3202,
+    "Name": "Retailer Assigned For use with all commodities"
+  },
+  {
+    "PLU_Code": 3203,
+    "Name": "Retailer Assigned For use with all commodities"
+  },
+  {
+    "PLU_Code": 3204,
+    "Name": "Retailer Assigned For use with all commodities"
+  },
+  {
+    "PLU_Code": 3205,
+    "Name": "Retailer Assigned For use with all commodities"
+  },
+  {
+    "PLU_Code": 3206,
+    "Name": "Retailer Assigned For use with all commodities"
+  },
+  {
+    "PLU_Code": 3207,
+    "Name": "Retailer Assigned For use with all commodities"
+  },
+  {
+    "PLU_Code": 3208,
+    "Name": "Retailer Assigned For use with all commodities"
+  },
+  {
+    "PLU_Code": 3209,
+    "Name": "Retailer Assigned For use with all commodities"
+  },
+  {
+    "PLU_Code": 3210,
+    "Name": "Retailer Assigned For use with all commodities"
+  },
+  {
+    "PLU_Code": 3211,
+    "Name": "Retailer Assigned For use with all commodities"
+  },
+  {
+    "PLU_Code": 3212,
+    "Name": "Retailer Assigned For use with all commodities"
+  },
+  {
+    "PLU_Code": 3213,
+    "Name": "Retailer Assigned For use with all commodities"
+  },
+  {
+    "PLU_Code": 3214,
+    "Name": "Retailer Assigned For use with all commodities"
+  },
+  {
+    "PLU_Code": 3215,
+    "Name": "Retailer Assigned For use with all commodities"
+  },
+  {
+    "PLU_Code": 3216,
+    "Name": "Retailer Assigned For use with all commodities"
+  },
+  {
+    "PLU_Code": 3217,
+    "Name": "Retailer Assigned For use with all commodities"
+  },
+  {
+    "PLU_Code": 3218,
+    "Name": "Retailer Assigned For use with all commodities"
+  },
+  {
+    "PLU_Code": 3219,
+    "Name": "Retailer Assigned For use with all commodities"
+  },
+  {
+    "PLU_Code": 3220,
+    "Name": "Retailer Assigned For use with all commodities"
+  },
+  {
+    "PLU_Code": 3221,
+    "Name": "Retailer Assigned For use with all commodities"
+  },
+  {
+    "PLU_Code": 3222,
+    "Name": "Retailer Assigned For use with all commodities"
+  },
+  {
+    "PLU_Code": 3223,
+    "Name": "Retailer Assigned For use with all commodities"
+  },
+  {
+    "PLU_Code": 3224,
+    "Name": "Retailer Assigned For use with all commodities"
+  },
+  {
+    "PLU_Code": 3225,
+    "Name": "Retailer Assigned For use with all commodities"
+  },
+  {
+    "PLU_Code": 3226,
+    "Name": "Retailer Assigned For use with all commodities"
+  },
+  {
+    "PLU_Code": 3227,
+    "Name": "Retailer Assigned For use with all commodities"
+  },
+  {
+    "PLU_Code": 3228,
+    "Name": "Retailer Assigned For use with all commodities"
+  },
+  {
+    "PLU_Code": 3229,
+    "Name": "Retailer Assigned For use with all commodities"
+  },
+  {
+    "PLU_Code": 3230,
+    "Name": "Retailer Assigned For use with all commodities"
+  },
+  {
+    "PLU_Code": 3231,
+    "Name": "Retailer Assigned For use with all commodities"
+  },
+  {
+    "PLU_Code": 3232,
+    "Name": "Retailer Assigned For use with all commodities"
+  },
+  {
+    "PLU_Code": 3233,
+    "Name": "Retailer Assigned For use with all commodities"
+  },
+  {
+    "PLU_Code": 3234,
+    "Name": "Retailer Assigned For use with all commodities"
+  },
+  {
+    "PLU_Code": 3235,
+    "Name": "Retailer Assigned For use with all commodities"
+  },
+  {
+    "PLU_Code": 3236,
+    "Name": "Retailer Assigned For use with all commodities"
+  },
+  {
+    "PLU_Code": 3237,
+    "Name": "Retailer Assigned For use with all commodities"
+  },
+  {
+    "PLU_Code": 3238,
+    "Name": "Retailer Assigned For use with all commodities"
+  },
+  {
+    "PLU_Code": 3239,
+    "Name": "Retailer Assigned For use with all commodities"
+  },
+  {
+    "PLU_Code": 3240,
+    "Name": "Retailer Assigned For use with all commodities"
+  },
+  {
+    "PLU_Code": 3241,
+    "Name": "Retailer Assigned For use with all commodities"
+  },
+  {
+    "PLU_Code": 3242,
+    "Name": "Retailer Assigned For use with all commodities"
+  },
+  {
+    "PLU_Code": 3243,
+    "Name": "Retailer Assigned For use with all commodities"
+  },
+  {
+    "PLU_Code": 3244,
+    "Name": "Retailer Assigned For use with all commodities"
+  },
+  {
+    "PLU_Code": 3245,
+    "Name": "Retailer Assigned For use with all commodities"
+  },
+  {
+    "PLU_Code": 3246,
+    "Name": "Retailer Assigned For use with all commodities"
+  },
+  {
+    "PLU_Code": 3247,
+    "Name": "Retailer Assigned For use with all commodities"
+  },
+  {
+    "PLU_Code": 3248,
+    "Name": "Retailer Assigned For use with all commodities"
+  },
+  {
+    "PLU_Code": 3249,
+    "Name": "Retailer Assigned For use with all commodities"
+  },
+  {
+    "PLU_Code": 3250,
+    "Name": "Retailer Assigned For use with all commodities"
+  },
+  {
+    "PLU_Code": 3251,
+    "Name": "Retailer Assigned For use with all commodities"
+  },
+  {
+    "PLU_Code": 3252,
+    "Name": "Retailer Assigned For use with all commodities"
+  },
+  {
+    "PLU_Code": 3253,
+    "Name": "Retailer Assigned For use with all commodities"
+  },
+  {
+    "PLU_Code": 3254,
+    "Name": "Retailer Assigned For use with all commodities"
+  },
+  {
+    "PLU_Code": 3255,
+    "Name": "Retailer Assigned For use with all commodities"
+  },
+  {
+    "PLU_Code": 3256,
+    "Name": "Retailer Assigned For use with all commodities"
+  },
+  {
+    "PLU_Code": 3257,
+    "Name": "Retailer Assigned For use with all commodities"
+  },
+  {
+    "PLU_Code": 3258,
+    "Name": "Retailer Assigned For use with all commodities"
+  },
+  {
+    "PLU_Code": 3259,
+    "Name": "Retailer Assigned For use with all commodities"
+  },
+  {
+    "PLU_Code": 3260,
+    "Name": "Retailer Assigned For use with all commodities"
+  },
+  {
+    "PLU_Code": 3261,
+    "Name": "Retailer Assigned For use with all commodities"
+  },
+  {
+    "PLU_Code": 3262,
+    "Name": "Retailer Assigned For use with all commodities"
+  },
+  {
+    "PLU_Code": 3263,
+    "Name": "Retailer Assigned For use with all commodities"
+  },
+  {
+    "PLU_Code": 3264,
+    "Name": "Retailer Assigned For use with all commodities"
+  },
+  {
+    "PLU_Code": 3265,
+    "Name": "Retailer Assigned For use with all commodities"
+  },
+  {
+    "PLU_Code": 3266,
+    "Name": "Retailer Assigned For use with all commodities"
+  },
+  {
+    "PLU_Code": 3267,
+    "Name": "Retailer Assigned For use with all commodities"
+  },
+  {
+    "PLU_Code": 3268,
+    "Name": "Retailer Assigned For use with all commodities"
+  },
+  {
+    "PLU_Code": 3269,
+    "Name": "Retailer Assigned For use with all commodities"
+  },
+  {
+    "PLU_Code": 3270,
+    "Name": "Retailer Assigned For use with all commodities"
+  },
+  {
+    "PLU_Code": 3271,
+    "Name": "Virginia Gold Apples"
+  },
+  {
+    "PLU_Code": 3272,
+    "Name": "Sommerfeld Apples"
+  },
+  {
+    "PLU_Code": 3273,
+    "Name": "Golden Beets"
+  },
+  {
+    "PLU_Code": 3274,
+    "Name": "Fresh Prunes"
+  },
+  {
+    "PLU_Code": 3275,
+    "Name": "Yellow (nyAH-may) Name"
+  },
+  {
+    "PLU_Code": 3276,
+    "Name": "White (nyAH-may) Name"
+  },
+  {
+    "PLU_Code": 3277,
+    "Name": "Baby Broccoli"
+  },
+  {
+    "PLU_Code": 3278,
+    "Name": "Plumcot (interspecific plum)"
+  },
+  {
+    "PLU_Code": 3279,
+    "Name": "Golden Kiwifruit"
+  },
+  {
+    "PLU_Code": 3280,
+    "Name": "Jumbo Regular Kiwifruit"
+  },
+  {
+    "PLU_Code": 3281,
+    "Name": "Orange Seedless Watermelon"
+  },
+  {
+    "PLU_Code": 3282,
+    "Name": "Plum/Italian/Saladette/Roma on the vine Tomatoes"
+  },
+  {
+    "PLU_Code": 3283,
+    "Name": "Honeycrisp Apples"
+  },
+  {
+    "PLU_Code": 3284,
+    "Name": "Extra Large Red Delicious Apples"
+  },
+  {
+    "PLU_Code": 3285,
+    "Name": "Extra Large Golden Delicious Apples"
+  },
+  {
+    "PLU_Code": 3286,
+    "Name": "Sweet red Italian Onions"
+  },
+  {
+    "PLU_Code": 3287,
+    "Name": "Hawaiian plantain Bananas"
+  },
+  {
+    "PLU_Code": 3288,
+    "Name": "Retailer Assigned Sweet potato/yam/kumara"
+  },
+  {
+    "PLU_Code": 3289,
+    "Name": "Sprite Melon"
+  },
+  {
+    "PLU_Code": 3290,
+    "Name": "Large Aurora/Southern Rose Apples"
+  },
+  {
+    "PLU_Code": 3291,
+    "Name": "Small Boskoop/Belle de Boskoop Apples"
+  },
+  {
+    "PLU_Code": 3292,
+    "Name": "Large Boskoop/Belle de Boskoop Apples"
+  },
+  {
+    "PLU_Code": 3293,
+    "Name": "Small Scifresh Apples"
+  },
+  {
+    "PLU_Code": 3294,
+    "Name": "Large Scifresh Apples"
+  },
+  {
+    "PLU_Code": 3295,
+    "Name": "Small Sciearly Apples"
+  },
+  {
+    "PLU_Code": 3296,
+    "Name": "Large Sciearly Apples"
+  },
+  {
+    "PLU_Code": 3297,
+    "Name": "Scired Apples"
+  },
+  {
+    "PLU_Code": 3298,
+    "Name": "Redfield Apples"
+  },
+  {
+    "PLU_Code": 3299,
+    "Name": "Small Sonya Apples"
+  },
+  {
+    "PLU_Code": 3300,
+    "Name": "Large Sonya Apples"
+  },
+  {
+    "PLU_Code": 3301,
+    "Name": "Large Cripps Red Apples"
+  },
+  {
+    "PLU_Code": 3302,
+    "Name": "Large Regular Apricots"
+  },
+  {
+    "PLU_Code": 3303,
+    "Name": "Babaco"
+  },
+  {
+    "PLU_Code": 3304,
+    "Name": "Loganberries Berries"
+  },
+  {
+    "PLU_Code": 3305,
+    "Name": "Black Currants"
+  },
+  {
+    "PLU_Code": 3306,
+    "Name": "Medium Charentais Melon"
+  },
+  {
+    "PLU_Code": 3307,
+    "Name": "Extra Large Charentais Melon"
+  },
+  {
+    "PLU_Code": 3308,
+    "Name": "Watermelon"
+  },
+  {
+    "PLU_Code": 3309,
+    "Name": "Lima Oranges"
+  },
+  {
+    "PLU_Code": 3310,
+    "Name": "Pera Oranges"
+  },
+  {
+    "PLU_Code": 3311,
+    "Name": "Curuba/Banana Passion fruit"
+  },
+  {
+    "PLU_Code": 3312,
+    "Name": "Granadilla Passion fruit"
+  },
+  {
+    "PLU_Code": 3313,
+    "Name": "Small White Flesh Peaches"
+  },
+  {
+    "PLU_Code": 3314,
+    "Name": "Large White Flesh Peaches"
+  },
+  {
+    "PLU_Code": 3315,
+    "Name": "Small Scilate Apples"
+  },
+  {
+    "PLU_Code": 3316,
+    "Name": "Carmen Pears"
+  },
+  {
+    "PLU_Code": 3317,
+    "Name": "Angelys Pears"
+  },
+  {
+    "PLU_Code": 3318,
+    "Name": "Large Passe Crassane Pears"
+  },
+  {
+    "PLU_Code": 3319,
+    "Name": "Yellow (skin color) Pitahaya"
+  },
+  {
+    "PLU_Code": 3320,
+    "Name": "Romanesco/Broccoflower/Caulibroc Cauliflower"
+  },
+  {
+    "PLU_Code": 3321,
+    "Name": "With leaves attached Celery root/celeriac"
+  },
+  {
+    "PLU_Code": 3322,
+    "Name": "Choy sum/pak choi sum"
+  },
+  {
+    "PLU_Code": 3323,
+    "Name": "Baby Choy sum/pak choi sum"
+  },
+  {
+    "PLU_Code": 3324,
+    "Name": "Red Escarole/batavian chicory"
+  },
+  {
+    "PLU_Code": 3325,
+    "Name": "Lollo Bionda/Coral Lettuce"
+  },
+  {
+    "PLU_Code": 3326,
+    "Name": "Lollo Rossa/Coral Lettuce"
+  },
+  {
+    "PLU_Code": 3327,
+    "Name": "Mignonette (Compact red-tinged butterhead varieties) Lettuce"
+  },
+  {
+    "PLU_Code": 3328,
+    "Name": "Mixed small-leaf salad (eg Sucrine, Mesclun, Rocket/Arugula) Lettuce"
+  },
+  {
+    "PLU_Code": 3329,
+    "Name": "Oak Leaf Lettuce"
+  },
+  {
+    "PLU_Code": 3330,
+    "Name": "Oak Leaf Lettuce"
+  },
+  {
+    "PLU_Code": 3331,
+    "Name": "Red Fresh Onions"
+  },
+  {
+    "PLU_Code": 3332,
+    "Name": "Baby Spinach"
+  },
+  {
+    "PLU_Code": 3333,
+    "Name": "Small Red/Orangy White Flesh Sweet potato/yam/kumara"
+  },
+  {
+    "PLU_Code": 3334,
+    "Name": "Large Red/Orangy White Flesh Sweet potato/yam/kumara"
+  },
+  {
+    "PLU_Code": 3335,
+    "Name": "Cocktail/Intermediate Tomatoes"
+  },
+  {
+    "PLU_Code": 3336,
+    "Name": "Cocktail/Intermediate Tomatoes"
+  },
+  {
+    "PLU_Code": 3337,
+    "Name": "(Dried Fruit) Figs"
+  },
+  {
+    "PLU_Code": 3338,
+    "Name": "Anise"
+  },
+  {
+    "PLU_Code": 3339,
+    "Name": "Belchard Apples"
+  },
+  {
+    "PLU_Code": 3340,
+    "Name": "Bertanne/Golden Russet Apples"
+  },
+  {
+    "PLU_Code": 3341,
+    "Name": "Charles Ross Apples"
+  },
+  {
+    "PLU_Code": 3342,
+    "Name": "Delblush Apples"
+  },
+  {
+    "PLU_Code": 3343,
+    "Name": "Dessert Apples"
+  },
+  {
+    "PLU_Code": 3344,
+    "Name": "Small Gloster Apples"
+  },
+  {
+    "PLU_Code": 3345,
+    "Name": "Large Gloster Apples"
+  },
+  {
+    "PLU_Code": 3346,
+    "Name": "Holstein Apples"
+  },
+  {
+    "PLU_Code": 3347,
+    "Name": "Laxtons Fortune Apples"
+  },
+  {
+    "PLU_Code": 3348,
+    "Name": "Lord Lambourne Apples"
+  },
+  {
+    "PLU_Code": 3349,
+    "Name": "Michaelmas Red Apples"
+  },
+  {
+    "PLU_Code": 3350,
+    "Name": "Small Reine des Reinettes/King of the Pippins Apples"
+  },
+  {
+    "PLU_Code": 3351,
+    "Name": "Large Reine des Reinettes/King of the Pippins Apples"
+  },
+  {
+    "PLU_Code": 3352,
+    "Name": "Reinettes and \"Heritage\" varieties Apples"
+  },
+  {
+    "PLU_Code": 3353,
+    "Name": "St Edmunds Pippin Apples"
+  },
+  {
+    "PLU_Code": 3354,
+    "Name": "Ripe/Ready-to-Eat Avocados"
+  },
+  {
+    "PLU_Code": 3355,
+    "Name": "Strawberries Berries"
+  },
+  {
+    "PLU_Code": 3356,
+    "Name": "Strawberries Berries"
+  },
+  {
+    "PLU_Code": 3357,
+    "Name": "Small Regular/Red/Black Cherries"
+  },
+  {
+    "PLU_Code": 3358,
+    "Name": "Large Regular/Red/Black Cherries"
+  },
+  {
+    "PLU_Code": 3359,
+    "Name": "Chasselas Grapes"
+  },
+  {
+    "PLU_Code": 3360,
+    "Name": "Muscat de Hambourg Grapes"
+  },
+  {
+    "PLU_Code": 3361,
+    "Name": "Without p/harvest treatment Grapefruit"
+  },
+  {
+    "PLU_Code": 3362,
+    "Name": "Without postharvest treatment Lemons"
+  },
+  {
+    "PLU_Code": 3363,
+    "Name": "Bowen & Kensington Pride Mango"
+  },
+  {
+    "PLU_Code": 3364,
+    "Name": "R2E2 (ArtwoEetwo) Mango"
+  },
+  {
+    "PLU_Code": 3365,
+    "Name": "Ripe/Ready-to-Eat Mango"
+  },
+  {
+    "PLU_Code": 3366,
+    "Name": "MadroÑa"
+  },
+  {
+    "PLU_Code": 3367,
+    "Name": "Glasshouse - Netted varieties Melon"
+  },
+  {
+    "PLU_Code": 3368,
+    "Name": "Ogen Melon"
+  },
+  {
+    "PLU_Code": 3369,
+    "Name": "Nectavigne (Red Flesh) Nectarine"
+  },
+  {
+    "PLU_Code": 3370,
+    "Name": "Maltaise Oranges"
+  },
+  {
+    "PLU_Code": 3371,
+    "Name": "Salustiana Oranges"
+  },
+  {
+    "PLU_Code": 3372,
+    "Name": "Navelate (and other late Navel varieties) Oranges"
+  },
+  {
+    "PLU_Code": 3373,
+    "Name": "Navelina (incl. Newhall) Oranges"
+  },
+  {
+    "PLU_Code": 3374,
+    "Name": "Without postharvest treatment Oranges"
+  },
+  {
+    "PLU_Code": 3375,
+    "Name": "de Vigne & Sanguine (Red Flesh) Peaches"
+  },
+  {
+    "PLU_Code": 3376,
+    "Name": "Alexander Lucas Pears"
+  },
+  {
+    "PLU_Code": 3377,
+    "Name": "Louise Bonne Pears"
+  },
+  {
+    "PLU_Code": 3378,
+    "Name": "Santa Maria Pears"
+  },
+  {
+    "PLU_Code": 3379,
+    "Name": "Mini Pineapple"
+  },
+  {
+    "PLU_Code": 3380,
+    "Name": "Perola Pineapple"
+  },
+  {
+    "PLU_Code": 3381,
+    "Name": "Soursop"
+  },
+  {
+    "PLU_Code": 3382,
+    "Name": "Sugar apple"
+  },
+  {
+    "PLU_Code": 3383,
+    "Name": "Small Clementine Tangerines/mandarins"
+  },
+  {
+    "PLU_Code": 3384,
+    "Name": "Medium Clementine Tangerines/mandarins"
+  },
+  {
+    "PLU_Code": 3385,
+    "Name": "Large Clementine Tangerines/mandarins"
+  },
+  {
+    "PLU_Code": 3386,
+    "Name": "Clementine Tangerines/mandarins"
+  },
+  {
+    "PLU_Code": 3387,
+    "Name": "Clementine Tangerines/mandarins"
+  },
+  {
+    "PLU_Code": 3388,
+    "Name": "Satsuma Tangerines/mandarins"
+  },
+  {
+    "PLU_Code": 3389,
+    "Name": "Satsuma Tangerines/mandarins"
+  },
+  {
+    "PLU_Code": 3390,
+    "Name": "Arracach"
+  },
+  {
+    "PLU_Code": 3391,
+    "Name": "Rouge Salambo (Red) Artichokes"
+  },
+  {
+    "PLU_Code": 3392,
+    "Name": "Green Asparagus"
+  },
+  {
+    "PLU_Code": 3393,
+    "Name": "White Asparagus"
+  },
+  {
+    "PLU_Code": 3394,
+    "Name": "Purple Asparagus"
+  },
+  {
+    "PLU_Code": 3395,
+    "Name": "Red Belgian endive (witloof chicory)"
+  },
+  {
+    "PLU_Code": 3396,
+    "Name": "Savoy, Red Cabbage"
+  },
+  {
+    "PLU_Code": 3397,
+    "Name": "Summer Cabbage Cabbage"
+  },
+  {
+    "PLU_Code": 3398,
+    "Name": "Chickpeas/Garbanzo Chickpeas"
+  },
+  {
+    "PLU_Code": 3399,
+    "Name": "Regular Garlic"
+  },
+  {
+    "PLU_Code": 3400,
+    "Name": "Regular Garlic"
+  },
+  {
+    "PLU_Code": 3401,
+    "Name": "One-clove types Garlic"
+  },
+  {
+    "PLU_Code": 3402,
+    "Name": "Regular Leeks"
+  },
+  {
+    "PLU_Code": 3403,
+    "Name": "Baby Leeks"
+  },
+  {
+    "PLU_Code": 3404,
+    "Name": "Cep Mushrooms"
+  },
+  {
+    "PLU_Code": 3405,
+    "Name": "Fairy Ring Champignon Mushrooms"
+  },
+  {
+    "PLU_Code": 3406,
+    "Name": "Grey Mushrooms"
+  },
+  {
+    "PLU_Code": 3407,
+    "Name": "Grisette Mushrooms"
+  },
+  {
+    "PLU_Code": 3408,
+    "Name": "Horn of Plenty/Black Trumpet Mushrooms"
+  },
+  {
+    "PLU_Code": 3409,
+    "Name": "Pioppino Mushrooms"
+  },
+  {
+    "PLU_Code": 3410,
+    "Name": "Saffron Milk-Cap Mushrooms"
+  },
+  {
+    "PLU_Code": 3411,
+    "Name": "Sheep Polypore Mushrooms"
+  },
+  {
+    "PLU_Code": 3412,
+    "Name": "Yellow/Brown Fresh Onions"
+  },
+  {
+    "PLU_Code": 3413,
+    "Name": "Tabasco Peppers (capsicums)"
+  },
+  {
+    "PLU_Code": 3414,
+    "Name": "Baking Potato"
+  },
+  {
+    "PLU_Code": 3415,
+    "Name": "Baking Potato"
+  },
+  {
+    "PLU_Code": 3416,
+    "Name": "Bunch Rhubarb"
+  },
+  {
+    "PLU_Code": 3417,
+    "Name": "New Zealand Spinach Spinach"
+  },
+  {
+    "PLU_Code": 3418,
+    "Name": "Zucchini/Courgette Squash"
+  },
+  {
+    "PLU_Code": 3419,
+    "Name": "Borage"
+  },
+  {
+    "PLU_Code": 3421,
+    "Name": "Mini Seedless Watermelon"
+  },
+  {
+    "PLU_Code": 3422,
+    "Name": "InterSpecific Apricots"
+  },
+  {
+    "PLU_Code": 3423,
+    "Name": "Heirloom Tomatoes"
+  },
+  {
+    "PLU_Code": 3424,
+    "Name": "Purple/Red Carrots"
+  },
+  {
+    "PLU_Code": 3425,
+    "Name": "Small Ellendale Tangerines/mandarins"
+  },
+  {
+    "PLU_Code": 3426,
+    "Name": "Medium Ellendale Tangerines/mandarins"
+  },
+  {
+    "PLU_Code": 3427,
+    "Name": "Large Ellendale Tangerines/mandarins"
+  },
+  {
+    "PLU_Code": 3428,
+    "Name": "Small Honey/Murcott Tangerines/mandarins"
+  },
+  {
+    "PLU_Code": 3429,
+    "Name": "Medium Honey/Murcott Tangerines/mandarins"
+  },
+  {
+    "PLU_Code": 3430,
+    "Name": "Large Honey/Murcott Tangerines/mandarins"
+  },
+  {
+    "PLU_Code": 3431,
+    "Name": "Small Imperial Tangerines/mandarins"
+  },
+  {
+    "PLU_Code": 3432,
+    "Name": "Medium Imperial Tangerines/mandarins"
+  },
+  {
+    "PLU_Code": 3433,
+    "Name": "Large Imperial Tangerines/mandarins"
+  },
+  {
+    "PLU_Code": 3434,
+    "Name": "Tosca Pears"
+  },
+  {
+    "PLU_Code": 3435,
+    "Name": "Pinova Apples"
+  },
+  {
+    "PLU_Code": 3436,
+    "Name": "Orange Cauliflower"
+  },
+  {
+    "PLU_Code": 3437,
+    "Name": "Flat Yellow Nectarine"
+  },
+  {
+    "PLU_Code": 3438,
+    "Name": "Ambrosia Apples"
+  },
+  {
+    "PLU_Code": 3439,
+    "Name": "White Flesh Flat Nectarine"
+  },
+  {
+    "PLU_Code": 3440,
+    "Name": "Large Pomegranate"
+  },
+  {
+    "PLU_Code": 3600,
+    "Name": "Antares Apples"
+  },
+  {
+    "PLU_Code": 3601,
+    "Name": "Huaguan Apples"
+  },
+  {
+    "PLU_Code": 3602,
+    "Name": "Belgica Apples"
+  },
+  {
+    "PLU_Code": 3603,
+    "Name": "Minneiska Apples"
+  },
+  {
+    "PLU_Code": 3604,
+    "Name": "Emmons Apples"
+  },
+  {
+    "PLU_Code": 3605,
+    "Name": "Nicoter Apples"
+  },
+  {
+    "PLU_Code": 3606,
+    "Name": "Sweet Sensation Pears"
+  },
+  {
+    "PLU_Code": 3607,
+    "Name": "Mariri Red Apples"
+  },
+  {
+    "PLU_Code": 3608,
+    "Name": "Large Sciros Apples"
+  },
+  {
+    "PLU_Code": 3609,
+    "Name": "Red Plumcot (interspecific plum)"
+  },
+  {
+    "PLU_Code": 3610,
+    "Name": "Green Plumcot (interspecific plum)"
+  },
+  {
+    "PLU_Code": 3611,
+    "Name": "Black Plumcot (interspecific plum)"
+  },
+  {
+    "PLU_Code": 3612,
+    "Name": "Nicogreen Apples"
+  },
+  {
+    "PLU_Code": 3613,
+    "Name": "Fuji Brak Apples"
+  },
+  {
+    "PLU_Code": 3614,
+    "Name": "Red Apricots"
+  },
+  {
+    "PLU_Code": 3615,
+    "Name": "Civni Apples"
+  },
+  {
+    "PLU_Code": 3616,
+    "Name": "Large Scilate Apples"
+  },
+  {
+    "PLU_Code": 3617,
+    "Name": "Seedless Lemons"
+  },
+  {
+    "PLU_Code": 3618,
+    "Name": "Opal Apples"
+  },
+  {
+    "PLU_Code": 3619,
+    "Name": "Milwa Apples"
+  },
+  {
+    "PLU_Code": 3620,
+    "Name": "Plumac Apples"
+  },
+  {
+    "PLU_Code": 3621,
+    "Name": "Francis Mango"
+  },
+  {
+    "PLU_Code": 3622,
+    "Name": "Honey Green Melon"
+  },
+  {
+    "PLU_Code": 3623,
+    "Name": "Hami Melon"
+  },
+  {
+    "PLU_Code": 3624,
+    "Name": "Korean Melon"
+  },
+  {
+    "PLU_Code": 3625,
+    "Name": "Minnewashta Apples"
+  },
+  {
+    "PLU_Code": 3626,
+    "Name": "Meyer Lemons"
+  },
+  {
+    "PLU_Code": 3627,
+    "Name": "Large PremA17 Apples"
+  },
+  {
+    "PLU_Code": 3628,
+    "Name": "PremA280 Apples"
+  },
+  {
+    "PLU_Code": 3629,
+    "Name": "CIVG198 Apples"
+  },
+  {
+    "PLU_Code": 3630,
+    "Name": "Co-op 43 Apples"
+  },
+  {
+    "PLU_Code": 3631,
+    "Name": "Pink Pumpkin"
+  },
+  {
+    "PLU_Code": 3632,
+    "Name": "Dekopon Tangerines/mandarins"
+  },
+  {
+    "PLU_Code": 4011,
+    "Name": "Bananas"
+  },
+  {
+    "PLU_Code": 4012,
+    "Name": "Large Navel Oranges"
+  },
+  {
+    "PLU_Code": 4013,
+    "Name": "Small Navel Oranges"
+  },
+  {
+    "PLU_Code": 4014,
+    "Name": "Small Valencia Oranges"
+  },
+  {
+    "PLU_Code": 4015,
+    "Name": "Small Red Delicious Apples"
+  },
+  {
+    "PLU_Code": 4016,
+    "Name": "Large Red Delicious Apples"
+  },
+  {
+    "PLU_Code": 4017,
+    "Name": "Large Granny Smith Apples"
+  },
+  {
+    "PLU_Code": 4018,
+    "Name": "Large Granny Smith Apples"
+  },
+  {
+    "PLU_Code": 4019,
+    "Name": "Large McIntosh Apples"
+  },
+  {
+    "PLU_Code": 4020,
+    "Name": "Large Golden Delicious Apples"
+  },
+  {
+    "PLU_Code": 4021,
+    "Name": "Small Golden Delicious Apples"
+  },
+  {
+    "PLU_Code": 4022,
+    "Name": "White/Green Seedless Grapes"
+  },
+  {
+    "PLU_Code": 4023,
+    "Name": "Red Seedless Grapes"
+  },
+  {
+    "PLU_Code": 4024,
+    "Name": "Small Bartlett/Williams/WBC Pears"
+  },
+  {
+    "PLU_Code": 4025,
+    "Name": "Small Anjou Pears"
+  },
+  {
+    "PLU_Code": 4026,
+    "Name": "Small Bosc/Beurre Bosc Pears"
+  },
+  {
+    "PLU_Code": 4027,
+    "Name": "Small Ruby/Red/Pink Grapefruit"
+  },
+  {
+    "PLU_Code": 4028,
+    "Name": "Pint Strawberries Berries"
+  },
+  {
+    "PLU_Code": 4029,
+    "Name": "Small Pineapple"
+  },
+  {
+    "PLU_Code": 4030,
+    "Name": "Regular Kiwifruit"
+  },
+  {
+    "PLU_Code": 4031,
+    "Name": "Seeded Watermelon"
+  },
+  {
+    "PLU_Code": 4032,
+    "Name": "Seedless Watermelon"
+  },
+  {
+    "PLU_Code": 4033,
+    "Name": "Small Lemons"
+  },
+  {
+    "PLU_Code": 4034,
+    "Name": "Large Honeydew/White Honeydew Melon"
+  },
+  {
+    "PLU_Code": 4035,
+    "Name": "Small Yellow Flesh Nectarine"
+  },
+  {
+    "PLU_Code": 4036,
+    "Name": "Large Yellow Flesh Nectarine"
+  },
+  {
+    "PLU_Code": 4037,
+    "Name": "Small Yellow Flesh Peaches"
+  },
+  {
+    "PLU_Code": 4038,
+    "Name": "Large Yellow Flesh Peaches"
+  },
+  {
+    "PLU_Code": 4039,
+    "Name": "Small Black Plums"
+  },
+  {
+    "PLU_Code": 4040,
+    "Name": "Large Black Plums"
+  },
+  {
+    "PLU_Code": 4041,
+    "Name": "Small Red Plums"
+  },
+  {
+    "PLU_Code": 4042,
+    "Name": "Large Red Plums"
+  },
+  {
+    "PLU_Code": 4043,
+    "Name": "Small Yellow Flesh Peaches"
+  },
+  {
+    "PLU_Code": 4044,
+    "Name": "Large Yellow Flesh Peaches"
+  },
+  {
+    "PLU_Code": 4045,
+    "Name": "Regular/Red/Black Cherries"
+  },
+  {
+    "PLU_Code": 4046,
+    "Name": "Small Hass Avocados"
+  },
+  {
+    "PLU_Code": 4047,
+    "Name": "Small Ruby/Red/Pink Grapefruit"
+  },
+  {
+    "PLU_Code": 4048,
+    "Name": "Regular (incl. Persian, Tahiti & Bearss) Limes"
+  },
+  {
+    "PLU_Code": 4049,
+    "Name": "Small Cantaloupe/Rockmelon Melon"
+  },
+  {
+    "PLU_Code": 4050,
+    "Name": "Large Cantaloupe/Rockmelon Melon"
+  },
+  {
+    "PLU_Code": 4051,
+    "Name": "Small Red Mango"
+  },
+  {
+    "PLU_Code": 4052,
+    "Name": "Small Regular Papaya/pawpaw"
+  },
+  {
+    "PLU_Code": 4053,
+    "Name": "Large Lemons"
+  },
+  {
+    "PLU_Code": 4054,
+    "Name": "Raspberries Berries"
+  },
+  {
+    "PLU_Code": 4055,
+    "Name": "Tangerines/mandarins"
+  },
+  {
+    "PLU_Code": 4056,
+    "Name": "Blue/Black Seedless Grapes"
+  },
+  {
+    "PLU_Code": 4057,
+    "Name": "Small Haralson Apples"
+  },
+  {
+    "PLU_Code": 4058,
+    "Name": "Large Haralson Apples"
+  },
+  {
+    "PLU_Code": 4060,
+    "Name": "Broccoli"
+  },
+  {
+    "PLU_Code": 4061,
+    "Name": "Iceberg Lettuce"
+  },
+  {
+    "PLU_Code": 4062,
+    "Name": "Green/Ridge/Short Cucumber"
+  },
+  {
+    "PLU_Code": 4063,
+    "Name": "Small Regular Tomatoes"
+  },
+  {
+    "PLU_Code": 4064,
+    "Name": "Large Regular Tomatoes"
+  },
+  {
+    "PLU_Code": 4065,
+    "Name": "Large Bell, Field Grown Peppers (capsicums)"
+  },
+  {
+    "PLU_Code": 4066,
+    "Name": "Green/French Beans"
+  },
+  {
+    "PLU_Code": 4067,
+    "Name": "Zucchini/Courgette Squash"
+  },
+  {
+    "PLU_Code": 4068,
+    "Name": "Green (Scallions)/Spring Onions"
+  },
+  {
+    "PLU_Code": 4069,
+    "Name": "Green Cabbage"
+  },
+  {
+    "PLU_Code": 4070,
+    "Name": "Small Bunch Celery"
+  },
+  {
+    "PLU_Code": 4071,
+    "Name": "Small Bunch Celery"
+  },
+  {
+    "PLU_Code": 4072,
+    "Name": "Russet Potato"
+  },
+  {
+    "PLU_Code": 4073,
+    "Name": "Red Potato"
+  },
+  {
+    "PLU_Code": 4074,
+    "Name": "Small Red/Orangy Red Flesh Sweet potato/yam/kumara"
+  },
+  {
+    "PLU_Code": 4075,
+    "Name": "Red Leaf Lettuce"
+  },
+  {
+    "PLU_Code": 4076,
+    "Name": "Green Leaf Lettuce"
+  },
+  {
+    "PLU_Code": 4077,
+    "Name": "Sweet Corn, White Corn"
+  },
+  {
+    "PLU_Code": 4078,
+    "Name": "Sweet Corn, Yellow Corn"
+  },
+  {
+    "PLU_Code": 4079,
+    "Name": "Small Cauliflower"
+  },
+  {
+    "PLU_Code": 4080,
+    "Name": "Small Green Asparagus"
+  },
+  {
+    "PLU_Code": 4081,
+    "Name": "Regular Eggplant (aubergine)"
+  },
+  {
+    "PLU_Code": 4082,
+    "Name": "Red Onions"
+  },
+  {
+    "PLU_Code": 4083,
+    "Name": "White Potato"
+  },
+  {
+    "PLU_Code": 4084,
+    "Name": "Large Artichokes"
+  },
+  {
+    "PLU_Code": 4085,
+    "Name": "Large Regular Mushrooms"
+  },
+  {
+    "PLU_Code": 4086,
+    "Name": "Yellow Zucchini/Gold Bar/Yellow Courgette Squash"
+  },
+  {
+    "PLU_Code": 4087,
+    "Name": "Plum/Italian/Saladette/Roma Tomatoes"
+  },
+  {
+    "PLU_Code": 4088,
+    "Name": "Red Bell Peppers"
+  },
+  {
+    "PLU_Code": 4089,
+    "Name": "Bunched Red Radish"
+  },
+  {
+    "PLU_Code": 4090,
+    "Name": "Regular/Bunched Spinach"
+  },
+  {
+    "PLU_Code": 4091,
+    "Name": "White Sweet potato/yam/kumara"
+  },
+  {
+    "PLU_Code": 4092,
+    "Name": "Chinese Snow Pea/Pea Pod/Mange Tout Peas"
+  },
+  {
+    "PLU_Code": 4093,
+    "Name": "Large Yellow/Brown Onions"
+  },
+  {
+    "PLU_Code": 4094,
+    "Name": "Bunch Carrots"
+  },
+  {
+    "PLU_Code": 4095,
+    "Name": "Yellow Turnip"
+  },
+  {
+    "PLU_Code": 4096,
+    "Name": "Large Ginger Gold Apples"
+  },
+  {
+    "PLU_Code": 4097,
+    "Name": "Small Ginger Gold Apples"
+  },
+  {
+    "PLU_Code": 4098,
+    "Name": "Small Akane Apples"
+  },
+  {
+    "PLU_Code": 4099,
+    "Name": "Large Akane Apples"
+  },
+  {
+    "PLU_Code": 4100,
+    "Name": "Small Fireside Apples"
+  },
+  {
+    "PLU_Code": 4101,
+    "Name": "Small Braeburn Apples"
+  },
+  {
+    "PLU_Code": 4102,
+    "Name": "Large Fireside Apples"
+  },
+  {
+    "PLU_Code": 4103,
+    "Name": "Large Braeburn Apples"
+  },
+  {
+    "PLU_Code": 4104,
+    "Name": "Small Cortland Apples"
+  },
+  {
+    "PLU_Code": 4105,
+    "Name": "Cox Orange Pippin Apples"
+  },
+  {
+    "PLU_Code": 4106,
+    "Name": "Large Cortland Apples"
+  },
+  {
+    "PLU_Code": 4107,
+    "Name": "Crab Apples"
+  },
+  {
+    "PLU_Code": 4108,
+    "Name": "Small Crispin/Mutsu Apples"
+  },
+  {
+    "PLU_Code": 4109,
+    "Name": "Small Crispin/Mutsu Apples"
+  },
+  {
+    "PLU_Code": 4110,
+    "Name": "Large Crispin/Mutsu Apples"
+  },
+  {
+    "PLU_Code": 4111,
+    "Name": "Large Crispin/Mutsu Apples"
+  },
+  {
+    "PLU_Code": 4112,
+    "Name": "Small Regent Apples"
+  },
+  {
+    "PLU_Code": 4113,
+    "Name": "Small Criterion Apples"
+  },
+  {
+    "PLU_Code": 4114,
+    "Name": "Large Regent Apples"
+  },
+  {
+    "PLU_Code": 4115,
+    "Name": "Large Criterion Apples"
+  },
+  {
+    "PLU_Code": 4116,
+    "Name": "Small Early Apples"
+  },
+  {
+    "PLU_Code": 4117,
+    "Name": "Small Early Apples"
+  },
+  {
+    "PLU_Code": 4118,
+    "Name": "Large Early Apples"
+  },
+  {
+    "PLU_Code": 4119,
+    "Name": "Large Early Apples"
+  },
+  {
+    "PLU_Code": 4120,
+    "Name": "Fiesta Apples"
+  },
+  {
+    "PLU_Code": 4121,
+    "Name": "Small Elstar Apples"
+  },
+  {
+    "PLU_Code": 4122,
+    "Name": "Small Sciros Apples"
+  },
+  {
+    "PLU_Code": 4123,
+    "Name": "Large Elstar Apples"
+  },
+  {
+    "PLU_Code": 4124,
+    "Name": "Small Empire Apples"
+  },
+  {
+    "PLU_Code": 4125,
+    "Name": "Small Empire Apples"
+  },
+  {
+    "PLU_Code": 4126,
+    "Name": "Large Empire Apples"
+  },
+  {
+    "PLU_Code": 4127,
+    "Name": "Large Empire Apples"
+  },
+  {
+    "PLU_Code": 4128,
+    "Name": "Small Cripps Pink Apples"
+  },
+  {
+    "PLU_Code": 4129,
+    "Name": "Small Fuji Apples"
+  },
+  {
+    "PLU_Code": 4130,
+    "Name": "Large Cripps Pink Apples"
+  },
+  {
+    "PLU_Code": 4131,
+    "Name": "Large Fuji Apples"
+  },
+  {
+    "PLU_Code": 4132,
+    "Name": "Small Gala Apples"
+  },
+  {
+    "PLU_Code": 4133,
+    "Name": "Small Gala Apples"
+  },
+  {
+    "PLU_Code": 4134,
+    "Name": "Large Gala Apples"
+  },
+  {
+    "PLU_Code": 4135,
+    "Name": "Large Gala Apples"
+  },
+  {
+    "PLU_Code": 4136,
+    "Name": "Small Golden Delicious Apples"
+  },
+  {
+    "PLU_Code": 4137,
+    "Name": "Large Golden Delicious Apples"
+  },
+  {
+    "PLU_Code": 4138,
+    "Name": "Small Granny Smith Apples"
+  },
+  {
+    "PLU_Code": 4139,
+    "Name": "Small Granny Smith Apples"
+  },
+  {
+    "PLU_Code": 4140,
+    "Name": "Small Idared Apples"
+  },
+  {
+    "PLU_Code": 4141,
+    "Name": "Small Jonamac Apples"
+  },
+  {
+    "PLU_Code": 4142,
+    "Name": "Large Idared Apples"
+  },
+  {
+    "PLU_Code": 4143,
+    "Name": "Large Jonamac Apples"
+  },
+  {
+    "PLU_Code": 4144,
+    "Name": "Small Jonagold Apples"
+  },
+  {
+    "PLU_Code": 4145,
+    "Name": "Small Jonagold Apples"
+  },
+  {
+    "PLU_Code": 4146,
+    "Name": "Large Jonagold Apples"
+  },
+  {
+    "PLU_Code": 4147,
+    "Name": "Large Jonagold Apples"
+  },
+  {
+    "PLU_Code": 4148,
+    "Name": "Small Jonathan Apples"
+  },
+  {
+    "PLU_Code": 4149,
+    "Name": "Small Jonathan Apples"
+  },
+  {
+    "PLU_Code": 4150,
+    "Name": "Large Jonathan Apples"
+  },
+  {
+    "PLU_Code": 4151,
+    "Name": "Large Jonathan Apples"
+  },
+  {
+    "PLU_Code": 4152,
+    "Name": "Small McIntosh Apples"
+  },
+  {
+    "PLU_Code": 4153,
+    "Name": "Small McIntosh Apples"
+  },
+  {
+    "PLU_Code": 4154,
+    "Name": "Large McIntosh Apples"
+  },
+  {
+    "PLU_Code": 4155,
+    "Name": "Small Paulared Apples"
+  },
+  {
+    "PLU_Code": 4156,
+    "Name": "Small Gravenstein Apples"
+  },
+  {
+    "PLU_Code": 4157,
+    "Name": "Large Paulared Apples"
+  },
+  {
+    "PLU_Code": 4158,
+    "Name": "Large Gravenstein Apples"
+  },
+  {
+    "PLU_Code": 4159,
+    "Name": "Vidalia Onions"
+  },
+  {
+    "PLU_Code": 4160,
+    "Name": "Small Pippin Apples"
+  },
+  {
+    "PLU_Code": 4161,
+    "Name": "Texas Sweet Onions"
+  },
+  {
+    "PLU_Code": 4162,
+    "Name": "Large Pippin Apples"
+  },
+  {
+    "PLU_Code": 4163,
+    "Name": "Walla Walla Onions"
+  },
+  {
+    "PLU_Code": 4164,
+    "Name": "Maui Onions"
+  },
+  {
+    "PLU_Code": 4165,
+    "Name": "California Sweet Onions"
+  },
+  {
+    "PLU_Code": 4166,
+    "Name": "Other Sweet Onions"
+  },
+  {
+    "PLU_Code": 4167,
+    "Name": "Small Red Delicious Apples"
+  },
+  {
+    "PLU_Code": 4168,
+    "Name": "Large Red Delicious Apples"
+  },
+  {
+    "PLU_Code": 4169,
+    "Name": "Small Rome Apples"
+  },
+  {
+    "PLU_Code": 4170,
+    "Name": "Small Rome Apples"
+  },
+  {
+    "PLU_Code": 4171,
+    "Name": "Large Rome Apples"
+  },
+  {
+    "PLU_Code": 4172,
+    "Name": "Large Rome Apples"
+  },
+  {
+    "PLU_Code": 4173,
+    "Name": "Small Royal Gala Apples"
+  },
+  {
+    "PLU_Code": 4174,
+    "Name": "Large Royal Gala Apples"
+  },
+  {
+    "PLU_Code": 4176,
+    "Name": "Southern Snap Apples"
+  },
+  {
+    "PLU_Code": 4177,
+    "Name": "Small Spartan Apples"
+  },
+  {
+    "PLU_Code": 4178,
+    "Name": "Small Spartan Apples"
+  },
+  {
+    "PLU_Code": 4179,
+    "Name": "Large Spartan Apples"
+  },
+  {
+    "PLU_Code": 4180,
+    "Name": "Large Spartan Apples"
+  },
+  {
+    "PLU_Code": 4181,
+    "Name": "Small Stayman Apples"
+  },
+  {
+    "PLU_Code": 4182,
+    "Name": "Sturmer Pippin Apples"
+  },
+  {
+    "PLU_Code": 4183,
+    "Name": "Large Stayman Apples"
+  },
+  {
+    "PLU_Code": 4185,
+    "Name": "Small York Apples"
+  },
+  {
+    "PLU_Code": 4186,
+    "Name": "Small Yellow Bananas"
+  },
+  {
+    "PLU_Code": 4187,
+    "Name": "Large York Apples"
+  },
+  {
+    "PLU_Code": 4188,
+    "Name": "Small White Flesh, Tree Ripened, Ready-to-eat Nectarine"
+  },
+  {
+    "PLU_Code": 4189,
+    "Name": "Small Winesap Apples"
+  },
+  {
+    "PLU_Code": 4190,
+    "Name": "Small Winesap Apples"
+  },
+  {
+    "PLU_Code": 4191,
+    "Name": "Large Winesap Apples"
+  },
+  {
+    "PLU_Code": 4192,
+    "Name": "Large Winesap Apples"
+  },
+  {
+    "PLU_Code": 4193,
+    "Name": "Retailer Assigned Apples"
+  },
+  {
+    "PLU_Code": 4194,
+    "Name": "Retailer Assigned Apples"
+  },
+  {
+    "PLU_Code": 4195,
+    "Name": "Retailer Assigned Apples"
+  },
+  {
+    "PLU_Code": 4196,
+    "Name": "Retailer Assigned Apples"
+  },
+  {
+    "PLU_Code": 4197,
+    "Name": "Retailer Assigned Apples"
+  },
+  {
+    "PLU_Code": 4198,
+    "Name": "Retailer Assigned Apples"
+  },
+  {
+    "PLU_Code": 4199,
+    "Name": "Retailer Assigned Apples"
+  },
+  {
+    "PLU_Code": 4200,
+    "Name": "Retailer Assigned Apples"
+  },
+  {
+    "PLU_Code": 4201,
+    "Name": "Retailer Assigned Apples"
+  },
+  {
+    "PLU_Code": 4202,
+    "Name": "Retailer Assigned Apples"
+  },
+  {
+    "PLU_Code": 4203,
+    "Name": "Retailer Assigned Apples"
+  },
+  {
+    "PLU_Code": 4204,
+    "Name": "Retailer Assigned Apples"
+  },
+  {
+    "PLU_Code": 4205,
+    "Name": "Retailer Assigned Apples"
+  },
+  {
+    "PLU_Code": 4206,
+    "Name": "Retailer Assigned Apples"
+  },
+  {
+    "PLU_Code": 4207,
+    "Name": "Retailer Assigned Apples"
+  },
+  {
+    "PLU_Code": 4208,
+    "Name": "Retailer Assigned Apples"
+  },
+  {
+    "PLU_Code": 4209,
+    "Name": "Retailer Assigned Apples"
+  },
+  {
+    "PLU_Code": 4210,
+    "Name": "Retailer Assigned Apples"
+  },
+  {
+    "PLU_Code": 4211,
+    "Name": "Retailer Assigned Apples"
+  },
+  {
+    "PLU_Code": 4212,
+    "Name": "Retailer Assigned Apples"
+  },
+  {
+    "PLU_Code": 4213,
+    "Name": "Retailer Assigned Apples"
+  },
+  {
+    "PLU_Code": 4214,
+    "Name": "Retailer Assigned Apples"
+  },
+  {
+    "PLU_Code": 4215,
+    "Name": "Retailer Assigned Apples"
+  },
+  {
+    "PLU_Code": 4216,
+    "Name": "Retailer Assigned Apples"
+  },
+  {
+    "PLU_Code": 4217,
+    "Name": "Retailer Assigned Apples"
+  },
+  {
+    "PLU_Code": 4218,
+    "Name": "Small Regular Apricots"
+  },
+  {
+    "PLU_Code": 4219,
+    "Name": "Retailer Assigned Apricots"
+  },
+  {
+    "PLU_Code": 4220,
+    "Name": "Atemoyas"
+  },
+  {
+    "PLU_Code": 4221,
+    "Name": "Small Green Avocados"
+  },
+  {
+    "PLU_Code": 4222,
+    "Name": "Small Green Avocados"
+  },
+  {
+    "PLU_Code": 4223,
+    "Name": "Large Green Avocados"
+  },
+  {
+    "PLU_Code": 4224,
+    "Name": "Large Green Avocados"
+  },
+  {
+    "PLU_Code": 4225,
+    "Name": "Large Hass Avocados"
+  },
+  {
+    "PLU_Code": 4226,
+    "Name": "Cocktail/Seedless Avocados"
+  },
+  {
+    "PLU_Code": 4227,
+    "Name": "Retailer Assigned Avocados"
+  },
+  {
+    "PLU_Code": 4228,
+    "Name": "Retailer Assigned Avocados"
+  },
+  {
+    "PLU_Code": 4229,
+    "Name": "Burro Bananas"
+  },
+  {
+    "PLU_Code": 4230,
+    "Name": "Dominique Bananas"
+  },
+  {
+    "PLU_Code": 4231,
+    "Name": "Green Bananas"
+  },
+  {
+    "PLU_Code": 4232,
+    "Name": "Leaves Bananas"
+  },
+  {
+    "PLU_Code": 4233,
+    "Name": "Manzano/Apple Bananas"
+  },
+  {
+    "PLU_Code": 4234,
+    "Name": "Nino Bananas"
+  },
+  {
+    "PLU_Code": 4235,
+    "Name": "Plantain/Macho Bananas"
+  },
+  {
+    "PLU_Code": 4236,
+    "Name": "Red Bananas"
+  },
+  {
+    "PLU_Code": 4237,
+    "Name": "Retailer Assigned Bananas"
+  },
+  {
+    "PLU_Code": 4238,
+    "Name": "Retailer Assigned Bananas"
+  },
+  {
+    "PLU_Code": 4239,
+    "Name": "Blackberries Berries"
+  },
+  {
+    "PLU_Code": 4240,
+    "Name": "Blueberries Berries"
+  },
+  {
+    "PLU_Code": 4241,
+    "Name": "Boysenberries Berries"
+  },
+  {
+    "PLU_Code": 4242,
+    "Name": "Cranberries Berries"
+  },
+  {
+    "PLU_Code": 4243,
+    "Name": "Gooseberries Berries"
+  },
+  {
+    "PLU_Code": 4244,
+    "Name": "Raspberries Berries"
+  },
+  {
+    "PLU_Code": 4245,
+    "Name": "Raspberries Berries"
+  },
+  {
+    "PLU_Code": 4246,
+    "Name": "Pint Strawberries Berries"
+  },
+  {
+    "PLU_Code": 4247,
+    "Name": "Quart Strawberries Berries"
+  },
+  {
+    "PLU_Code": 4248,
+    "Name": "Quart Strawberries Berries"
+  },
+  {
+    "PLU_Code": 4249,
+    "Name": "Bulk 3-pack (3 pints) Strawberries Berries"
+  },
+  {
+    "PLU_Code": 4250,
+    "Name": "Bulk 3-pack (3 pints) Strawberries Berries"
+  },
+  {
+    "PLU_Code": 4251,
+    "Name": "Long-stemmed Strawberries Berries"
+  },
+  {
+    "PLU_Code": 4252,
+    "Name": "Retailer Assigned Berries"
+  },
+  {
+    "PLU_Code": 4253,
+    "Name": "Retailer Assigned Berries"
+  },
+  {
+    "PLU_Code": 4254,
+    "Name": "Breadfruit"
+  },
+  {
+    "PLU_Code": 4255,
+    "Name": "Cactus pear (prickly pear)"
+  },
+  {
+    "PLU_Code": 4256,
+    "Name": "Carambola (starfruit)"
+  },
+  {
+    "PLU_Code": 4257,
+    "Name": "Cherimoya"
+  },
+  {
+    "PLU_Code": 4258,
+    "Name": "Golden/Rainier/White Cherries"
+  },
+  {
+    "PLU_Code": 4259,
+    "Name": "Retailer Assigned Cherries"
+  },
+  {
+    "PLU_Code": 4260,
+    "Name": "In Husk/Waternut Coconuts"
+  },
+  {
+    "PLU_Code": 4261,
+    "Name": "Husked Coconuts"
+  },
+  {
+    "PLU_Code": 4262,
+    "Name": "Retailer Assigned Coconuts"
+  },
+  {
+    "PLU_Code": 4263,
+    "Name": "Fresh Dates"
+  },
+  {
+    "PLU_Code": 4264,
+    "Name": "Retailer Assigned Dates"
+  },
+  {
+    "PLU_Code": 4265,
+    "Name": "Feijoa"
+  },
+  {
+    "PLU_Code": 4266,
+    "Name": "Black Figs"
+  },
+  {
+    "PLU_Code": 4267,
+    "Name": "Brown Figs"
+  },
+  {
+    "PLU_Code": 4268,
+    "Name": "White/Green Figs"
+  },
+  {
+    "PLU_Code": 4269,
+    "Name": "Retailer Assigned Figs"
+  },
+  {
+    "PLU_Code": 4270,
+    "Name": "Blue/Black Seeded Grapes"
+  },
+  {
+    "PLU_Code": 4271,
+    "Name": "Champagne Grapes"
+  },
+  {
+    "PLU_Code": 4272,
+    "Name": "Concord Grapes"
+  },
+  {
+    "PLU_Code": 4273,
+    "Name": "Red Seeded Grapes"
+  },
+  {
+    "PLU_Code": 4274,
+    "Name": "White/Green Seeded Grapes"
+  },
+  {
+    "PLU_Code": 4275,
+    "Name": "Retailer Assigned Grapes"
+  },
+  {
+    "PLU_Code": 4276,
+    "Name": "Retailer Assigned Grapes"
+  },
+  {
+    "PLU_Code": 4277,
+    "Name": "Retailer Assigned Grapes"
+  },
+  {
+    "PLU_Code": 4278,
+    "Name": "Retailer Assigned Grapes"
+  },
+  {
+    "PLU_Code": 4279,
+    "Name": "Pummelo Grapefruit"
+  },
+  {
+    "PLU_Code": 4280,
+    "Name": "Small Ruby/Red/Pink Grapefruit"
+  },
+  {
+    "PLU_Code": 4281,
+    "Name": "Large Ruby/Red/Pink Grapefruit"
+  },
+  {
+    "PLU_Code": 4282,
+    "Name": "Large Ruby/Red/Pink Grapefruit"
+  },
+  {
+    "PLU_Code": 4283,
+    "Name": "Large Ruby/Red/Pink Grapefruit"
+  },
+  {
+    "PLU_Code": 4284,
+    "Name": "Small Deep Red Grapefruit"
+  },
+  {
+    "PLU_Code": 4285,
+    "Name": "Small Deep Red Grapefruit"
+  },
+  {
+    "PLU_Code": 4286,
+    "Name": "Sm Deep Red Grapefruit"
+  },
+  {
+    "PLU_Code": 4287,
+    "Name": "Large Deep Red Grapefruit"
+  },
+  {
+    "PLU_Code": 4288,
+    "Name": "Large Deep Red Grapefruit"
+  },
+  {
+    "PLU_Code": 4289,
+    "Name": "Lrg Deep Red Grapefruit"
+  },
+  {
+    "PLU_Code": 4290,
+    "Name": "Small White Grapefruit"
+  },
+  {
+    "PLU_Code": 4291,
+    "Name": "Small White Grapefruit"
+  },
+  {
+    "PLU_Code": 4292,
+    "Name": "Small White Grapefruit"
+  },
+  {
+    "PLU_Code": 4293,
+    "Name": "Large White Grapefruit"
+  },
+  {
+    "PLU_Code": 4294,
+    "Name": "Large White Grapefruit"
+  },
+  {
+    "PLU_Code": 4295,
+    "Name": "Large White Grapefruit"
+  },
+  {
+    "PLU_Code": 4296,
+    "Name": "Retailer Assigned Grapefruit"
+  },
+  {
+    "PLU_Code": 4297,
+    "Name": "Retailer Assigned Grapefruit"
+  },
+  {
+    "PLU_Code": 4298,
+    "Name": "Retailer Assigned Grapefruit"
+  },
+  {
+    "PLU_Code": 4299,
+    "Name": "Guava"
+  },
+  {
+    "PLU_Code": 4300,
+    "Name": "Homli fruit"
+  },
+  {
+    "PLU_Code": 4301,
+    "Name": "Retailer Assigned Kiwifruit"
+  },
+  {
+    "PLU_Code": 4302,
+    "Name": "Kiwano (horned melon)"
+  },
+  {
+    "PLU_Code": 4303,
+    "Name": "Kumquat"
+  },
+  {
+    "PLU_Code": 4304,
+    "Name": "Retailer Assigned Lemons"
+  },
+  {
+    "PLU_Code": 4305,
+    "Name": "Key (incl. Mexican & West Indian) Limes"
+  },
+  {
+    "PLU_Code": 4306,
+    "Name": "Retailer Assigned Limes"
+  },
+  {
+    "PLU_Code": 4307,
+    "Name": "Longan"
+  },
+  {
+    "PLU_Code": 4308,
+    "Name": "Loquats"
+  },
+  {
+    "PLU_Code": 4309,
+    "Name": "Lychees"
+  },
+  {
+    "PLU_Code": 4310,
+    "Name": "Mamey"
+  },
+  {
+    "PLU_Code": 4311,
+    "Name": "Small Green Mango"
+  },
+  {
+    "PLU_Code": 4312,
+    "Name": "Small Yellow Mango"
+  },
+  {
+    "PLU_Code": 4313,
+    "Name": "Retailer Assigned Mango"
+  },
+  {
+    "PLU_Code": 4314,
+    "Name": "Retailer Assigned Mango"
+  },
+  {
+    "PLU_Code": 4315,
+    "Name": "Retailer Assigned Mango"
+  },
+  {
+    "PLU_Code": 4316,
+    "Name": "Retailer Assigned Mango"
+  },
+  {
+    "PLU_Code": 4317,
+    "Name": "Canary/Yellow Honeydew Melon"
+  },
+  {
+    "PLU_Code": 4318,
+    "Name": "Small Cantaloupe/Muskmelon Melon"
+  },
+  {
+    "PLU_Code": 4319,
+    "Name": "Large Cantaloupe/Muskmelon Melon"
+  },
+  {
+    "PLU_Code": 4320,
+    "Name": "Casaba Melon"
+  },
+  {
+    "PLU_Code": 4321,
+    "Name": "Cinnabar Melon"
+  },
+  {
+    "PLU_Code": 4322,
+    "Name": "Crenshaw Melon"
+  },
+  {
+    "PLU_Code": 4323,
+    "Name": "Bulk Strawberries Berries"
+  },
+  {
+    "PLU_Code": 4324,
+    "Name": "French Afternoon Melon"
+  },
+  {
+    "PLU_Code": 4325,
+    "Name": "French Breakfast Melon"
+  },
+  {
+    "PLU_Code": 4326,
+    "Name": "Galia Melon"
+  },
+  {
+    "PLU_Code": 4327,
+    "Name": "Orange Flesh/Cantaline Melon"
+  },
+  {
+    "PLU_Code": 4328,
+    "Name": "Limequats"
+  },
+  {
+    "PLU_Code": 4329,
+    "Name": "Small Honeydew/White Honeydew Melon"
+  },
+  {
+    "PLU_Code": 4330,
+    "Name": "Mayan Melon"
+  },
+  {
+    "PLU_Code": 4331,
+    "Name": "Mickey Lee / Sugar Baby Watermelon"
+  },
+  {
+    "PLU_Code": 4332,
+    "Name": "Muskmelon Melon"
+  },
+  {
+    "PLU_Code": 4333,
+    "Name": "Pepino Melon"
+  },
+  {
+    "PLU_Code": 4334,
+    "Name": "Persian Melon"
+  },
+  {
+    "PLU_Code": 4335,
+    "Name": "Prince Melon"
+  },
+  {
+    "PLU_Code": 4336,
+    "Name": "Santa Claus Melon"
+  },
+  {
+    "PLU_Code": 4337,
+    "Name": "Saticoy Melon"
+  },
+  {
+    "PLU_Code": 4338,
+    "Name": "Sharlin Melon"
+  },
+  {
+    "PLU_Code": 4339,
+    "Name": "Spanish/Tendral Melon"
+  },
+  {
+    "PLU_Code": 4340,
+    "Name": "Yellow Seeded Watermelon"
+  },
+  {
+    "PLU_Code": 4341,
+    "Name": "Yellow Seedless Watermelon"
+  },
+  {
+    "PLU_Code": 4342,
+    "Name": "Retailer Assigned (includes pre-cut melons) Melon"
+  },
+  {
+    "PLU_Code": 4343,
+    "Name": "Retailer Assigned (includes pre-cut melons) Melon"
+  },
+  {
+    "PLU_Code": 4344,
+    "Name": "Retailer Assigned (includes pre-cut melons) Melon"
+  },
+  {
+    "PLU_Code": 4345,
+    "Name": "Retailer Assigned (includes pre-cut melons) Melon"
+  },
+  {
+    "PLU_Code": 4346,
+    "Name": "Retailer Assigned (includes pre-cut melons) Melon"
+  },
+  {
+    "PLU_Code": 4347,
+    "Name": "Retailer Assigned (includes pre-cut melons) Melon"
+  },
+  {
+    "PLU_Code": 4348,
+    "Name": "Retailer Assigned (includes pre-cut melons) Melon"
+  },
+  {
+    "PLU_Code": 4349,
+    "Name": "Retailer Assigned (includes pre-cut melons) Melon"
+  },
+  {
+    "PLU_Code": 4350,
+    "Name": "Retailer Assigned (includes pre-cut melons) Melon"
+  },
+  {
+    "PLU_Code": 4351,
+    "Name": "Retailer Assigned (includes pre-cut melons) Melon"
+  },
+  {
+    "PLU_Code": 4352,
+    "Name": "Retailer Assigned (includes pre-cut melons) Melon"
+  },
+  {
+    "PLU_Code": 4353,
+    "Name": "Retailer Assigned (includes pre-cut melons) Melon"
+  },
+  {
+    "PLU_Code": 4354,
+    "Name": "Retailer Assigned (includes pre-cut melons) Melon"
+  },
+  {
+    "PLU_Code": 4355,
+    "Name": "Retailer Assigned (includes pre-cut melons) Melon"
+  },
+  {
+    "PLU_Code": 4356,
+    "Name": "Retailer Assigned (includes pre-cut melons) Melon"
+  },
+  {
+    "PLU_Code": 4357,
+    "Name": "Retailer Assigned (includes pre-cut melons) Melon"
+  },
+  {
+    "PLU_Code": 4358,
+    "Name": "Retailer Assigned (includes pre-cut melons) Melon"
+  },
+  {
+    "PLU_Code": 4359,
+    "Name": "Retailer Assigned (includes pre-cut melons) Melon"
+  },
+  {
+    "PLU_Code": 4360,
+    "Name": "Retailer Assigned (includes pre-cut melons) Melon"
+  },
+  {
+    "PLU_Code": 4361,
+    "Name": "Retailer Assigned (includes pre-cut melons) Melon"
+  },
+  {
+    "PLU_Code": 4362,
+    "Name": "Retailer Assigned (includes pre-cut melons) Melon"
+  },
+  {
+    "PLU_Code": 4363,
+    "Name": "Retailer Assigned (includes pre-cut melons) Melon"
+  },
+  {
+    "PLU_Code": 4364,
+    "Name": "Retailer Assigned (includes pre-cut melons) Melon"
+  },
+  {
+    "PLU_Code": 4365,
+    "Name": "Retailer Assigned (includes pre-cut melons) Melon"
+  },
+  {
+    "PLU_Code": 4366,
+    "Name": "Retailer Assigned (includes pre-cut melons) Melon"
+  },
+  {
+    "PLU_Code": 4367,
+    "Name": "Retailer Assigned (includes pre-cut melons) Melon"
+  },
+  {
+    "PLU_Code": 4368,
+    "Name": "Retailer Assigned (includes pre-cut melons) Melon"
+  },
+  {
+    "PLU_Code": 4369,
+    "Name": "Retailer Assigned (includes pre-cut melons) Melon"
+  },
+  {
+    "PLU_Code": 4370,
+    "Name": "Retailer Assigned (includes pre-cut melons) Melon"
+  },
+  {
+    "PLU_Code": 4371,
+    "Name": "Retailer Assigned (includes pre-cut melons) Melon"
+  },
+  {
+    "PLU_Code": 4372,
+    "Name": "Retailer Assigned (includes pre-cut melons) Melon"
+  },
+  {
+    "PLU_Code": 4373,
+    "Name": "Retailer Assigned (includes pre-cut melons) Melon"
+  },
+  {
+    "PLU_Code": 4374,
+    "Name": "Retailer Assigned (includes pre-cut melons) Melon"
+  },
+  {
+    "PLU_Code": 4375,
+    "Name": "Retailer Assigned (includes pre-cut melons) Melon"
+  },
+  {
+    "PLU_Code": 4376,
+    "Name": "Retailer Assigned (includes pre-cut melons) Melon"
+  },
+  {
+    "PLU_Code": 4377,
+    "Name": "Small Yellow Flesh, Tree Ripened, Ready-to-eat Nectarine"
+  },
+  {
+    "PLU_Code": 4378,
+    "Name": "Large Yellow Flesh, Tree Ripened, Ready-to-eat Nectarine"
+  },
+  {
+    "PLU_Code": 4379,
+    "Name": "Retailer Assigned Nectarine"
+  },
+  {
+    "PLU_Code": 4380,
+    "Name": "Retailer Assigned Nectarine"
+  },
+  {
+    "PLU_Code": 4381,
+    "Name": "Blood Oranges"
+  },
+  {
+    "PLU_Code": 4382,
+    "Name": "Juice Oranges"
+  },
+  {
+    "PLU_Code": 4383,
+    "Name": "Minneola Tangelo"
+  },
+  {
+    "PLU_Code": 4384,
+    "Name": "Small Navel Oranges"
+  },
+  {
+    "PLU_Code": 4385,
+    "Name": "Large Navel Oranges"
+  },
+  {
+    "PLU_Code": 4386,
+    "Name": "Small Temple Oranges"
+  },
+  {
+    "PLU_Code": 4387,
+    "Name": "Large Temple Oranges"
+  },
+  {
+    "PLU_Code": 4388,
+    "Name": "Large Valencia Oranges"
+  },
+  {
+    "PLU_Code": 4388,
+    "Name": "Large Valencia Oranges"
+  },
+  {
+    "PLU_Code": 4389,
+    "Name": "Retailer Assigned Oranges"
+  },
+  {
+    "PLU_Code": 4390,
+    "Name": "Retailer Assigned Oranges"
+  },
+  {
+    "PLU_Code": 4391,
+    "Name": "Retailer Assigned Oranges"
+  },
+  {
+    "PLU_Code": 4392,
+    "Name": "Retailer Assigned Oranges"
+  },
+  {
+    "PLU_Code": 4393,
+    "Name": "Retailer Assigned Oranges"
+  },
+  {
+    "PLU_Code": 4394,
+    "Name": "Large Regular Papaya/pawpaw"
+  },
+  {
+    "PLU_Code": 4395,
+    "Name": "Cooking/Mexican Papaya/pawpaw"
+  },
+  {
+    "PLU_Code": 4396,
+    "Name": "Retailer Assigned Papaya/pawpaw"
+  },
+  {
+    "PLU_Code": 4397,
+    "Name": "Purple Passion fruit"
+  },
+  {
+    "PLU_Code": 4398,
+    "Name": "Retailer Assigned Passion fruit"
+  },
+  {
+    "PLU_Code": 4399,
+    "Name": "Indian Peaches"
+  },
+  {
+    "PLU_Code": 4400,
+    "Name": "Small White Flesh Peaches"
+  },
+  {
+    "PLU_Code": 4401,
+    "Name": "Large White Flesh Peaches"
+  },
+  {
+    "PLU_Code": 4402,
+    "Name": "Small Yellow Flesh Peaches"
+  },
+  {
+    "PLU_Code": 4403,
+    "Name": "Large Yellow Flesh Peaches"
+  },
+  {
+    "PLU_Code": 4404,
+    "Name": "Retailer Assigned Peaches"
+  },
+  {
+    "PLU_Code": 4405,
+    "Name": "Retailer Assigned Peaches"
+  },
+  {
+    "PLU_Code": 4406,
+    "Name": "Asian/Nashi Pears"
+  },
+  {
+    "PLU_Code": 4407,
+    "Name": "Asian/Nashi Pears"
+  },
+  {
+    "PLU_Code": 4408,
+    "Name": "Asian/Nashi Pears"
+  },
+  {
+    "PLU_Code": 4409,
+    "Name": "Large Bartlett/Williams/WBC Pears"
+  },
+  {
+    "PLU_Code": 4410,
+    "Name": "Bartlett Pears"
+  },
+  {
+    "PLU_Code": 4411,
+    "Name": "Small Bosc/Beurre Bosc Pears"
+  },
+  {
+    "PLU_Code": 4412,
+    "Name": "Large Bosc/Beurre Bosc Pears"
+  },
+  {
+    "PLU_Code": 4413,
+    "Name": "Large Bosc/Beurre Bosc Pears"
+  },
+  {
+    "PLU_Code": 4414,
+    "Name": "Comice/ Doyenne du Comice Pears"
+  },
+  {
+    "PLU_Code": 4415,
+    "Name": "Red Pears"
+  },
+  {
+    "PLU_Code": 4416,
+    "Name": "Large Anjou Pears"
+  },
+  {
+    "PLU_Code": 4417,
+    "Name": "Anjou Pears"
+  },
+  {
+    "PLU_Code": 4418,
+    "Name": "Forelle/Corella Pears"
+  },
+  {
+    "PLU_Code": 4419,
+    "Name": "French Pears"
+  },
+  {
+    "PLU_Code": 4420,
+    "Name": "King Royal Pears"
+  },
+  {
+    "PLU_Code": 4421,
+    "Name": "Packham/Packhams Triumph Pears"
+  },
+  {
+    "PLU_Code": 4422,
+    "Name": "Seckel Pears"
+  },
+  {
+    "PLU_Code": 4423,
+    "Name": "Tree Ripened Pears"
+  },
+  {
+    "PLU_Code": 4424,
+    "Name": "Winter Nelis/Honey Pears"
+  },
+  {
+    "PLU_Code": 4425,
+    "Name": "Retailer Assigned Pears"
+  },
+  {
+    "PLU_Code": 4426,
+    "Name": "Retailer Assigned Pears"
+  },
+  {
+    "PLU_Code": 4427,
+    "Name": "Regular (American Persimmon) Persimmon"
+  },
+  {
+    "PLU_Code": 4428,
+    "Name": "Japanese/Sharonfruit (Kaki) Persimmon"
+  },
+  {
+    "PLU_Code": 4429,
+    "Name": "Retailer Assigned Persimmon"
+  },
+  {
+    "PLU_Code": 4430,
+    "Name": "Large Pineapple"
+  },
+  {
+    "PLU_Code": 4431,
+    "Name": "Small Jet Fresh Pineapple"
+  },
+  {
+    "PLU_Code": 4432,
+    "Name": "Large Jet Fresh Pineapple"
+  },
+  {
+    "PLU_Code": 4433,
+    "Name": "Retailer Assigned Pineapple"
+  },
+  {
+    "PLU_Code": 4434,
+    "Name": "Small Green Plums"
+  },
+  {
+    "PLU_Code": 4435,
+    "Name": "Large Green Plums"
+  },
+  {
+    "PLU_Code": 4436,
+    "Name": "Italian Prune/Sugar Plums"
+  },
+  {
+    "PLU_Code": 4437,
+    "Name": "Small Purple Plums"
+  },
+  {
+    "PLU_Code": 4438,
+    "Name": "Large Purple Plums"
+  },
+  {
+    "PLU_Code": 4439,
+    "Name": "Small Tree Ripened Plums"
+  },
+  {
+    "PLU_Code": 4440,
+    "Name": "Large Tree Ripened Plums"
+  },
+  {
+    "PLU_Code": 4441,
+    "Name": "Small Yellow Plums"
+  },
+  {
+    "PLU_Code": 4442,
+    "Name": "Large Yellow Plums"
+  },
+  {
+    "PLU_Code": 4443,
+    "Name": "Retailer Assigned Plums"
+  },
+  {
+    "PLU_Code": 4444,
+    "Name": "Retailer Assigned Plums"
+  },
+  {
+    "PLU_Code": 4445,
+    "Name": "Small Pomegranate"
+  },
+  {
+    "PLU_Code": 4446,
+    "Name": "Retailer Assigned Pomegranate"
+  },
+  {
+    "PLU_Code": 4447,
+    "Name": "Quince"
+  },
+  {
+    "PLU_Code": 4448,
+    "Name": "Tamarindo"
+  },
+  {
+    "PLU_Code": 4449,
+    "Name": "Sunburst Tangerines/mandarins"
+  },
+  {
+    "PLU_Code": 4450,
+    "Name": "Clementine (includes Fortune) Tangerines/mandarins"
+  },
+  {
+    "PLU_Code": 4451,
+    "Name": "Dancy Tangerines/mandarins"
+  },
+  {
+    "PLU_Code": 4452,
+    "Name": "Fairchild Tangerines/mandarins"
+  },
+  {
+    "PLU_Code": 4453,
+    "Name": "Honey/Murcott Tangerines/mandarins"
+  },
+  {
+    "PLU_Code": 4454,
+    "Name": "Kinnow Tangerines/mandarins"
+  },
+  {
+    "PLU_Code": 4455,
+    "Name": "Mandarin/Royal Tangerines/mandarins"
+  },
+  {
+    "PLU_Code": 4456,
+    "Name": "Tangelo"
+  },
+  {
+    "PLU_Code": 4457,
+    "Name": "Retailer Assigned Tangerines/mandarins"
+  },
+  {
+    "PLU_Code": 4458,
+    "Name": "Retailer Assigned Tangerines/mandarins"
+  },
+  {
+    "PLU_Code": 4459,
+    "Name": "Jamaican Tangelo"
+  },
+  {
+    "PLU_Code": 4460,
+    "Name": "Retailer Assigned For use with all commodities"
+  },
+  {
+    "PLU_Code": 4461,
+    "Name": "Retailer Assigned For use with all commodities"
+  },
+  {
+    "PLU_Code": 4462,
+    "Name": "Retailer Assigned For use with all commodities"
+  },
+  {
+    "PLU_Code": 4463,
+    "Name": "Retailer Assigned For use with all commodities"
+  },
+  {
+    "PLU_Code": 4464,
+    "Name": "Retailer Assigned For use with all commodities"
+  },
+  {
+    "PLU_Code": 4465,
+    "Name": "Retailer Assigned For use with all commodities"
+  },
+  {
+    "PLU_Code": 4466,
+    "Name": "Retailer Assigned For use with all commodities"
+  },
+  {
+    "PLU_Code": 4467,
+    "Name": "Retailer Assigned For use with all commodities"
+  },
+  {
+    "PLU_Code": 4468,
+    "Name": "Retailer Assigned For use with all commodities"
+  },
+  {
+    "PLU_Code": 4469,
+    "Name": "Retailer Assigned For use with all commodities"
+  },
+  {
+    "PLU_Code": 4470,
+    "Name": "Salad bar"
+  },
+  {
+    "PLU_Code": 4471,
+    "Name": "Retailer Assigned Other fruits"
+  },
+  {
+    "PLU_Code": 4472,
+    "Name": "Retailer Assigned Other fruits"
+  },
+  {
+    "PLU_Code": 4473,
+    "Name": "Retailer Assigned Other fruits"
+  },
+  {
+    "PLU_Code": 4474,
+    "Name": "Retailer Assigned Other fruits"
+  },
+  {
+    "PLU_Code": 4475,
+    "Name": "Retailer Assigned Other fruits"
+  },
+  {
+    "PLU_Code": 4476,
+    "Name": "Retailer Assigned Other fruits"
+  },
+  {
+    "PLU_Code": 4477,
+    "Name": "Retailer Assigned Other fruits"
+  },
+  {
+    "PLU_Code": 4478,
+    "Name": "Retailer Assigned Other fruits"
+  },
+  {
+    "PLU_Code": 4479,
+    "Name": "Retailer Assigned Other fruits"
+  },
+  {
+    "PLU_Code": 4480,
+    "Name": "Retailer Assigned Other fruits"
+  },
+  {
+    "PLU_Code": 4481,
+    "Name": "Retailer Assigned Other fruits"
+  },
+  {
+    "PLU_Code": 4482,
+    "Name": "Retailer Assigned Other fruits"
+  },
+  {
+    "PLU_Code": 4483,
+    "Name": "Retailer Assigned Other fruits"
+  },
+  {
+    "PLU_Code": 4484,
+    "Name": "Retailer Assigned Other fruits"
+  },
+  {
+    "PLU_Code": 4485,
+    "Name": "Retailer Assigned Other fruits"
+  },
+  {
+    "PLU_Code": 4486,
+    "Name": "Retailer Assigned Other fruits"
+  },
+  {
+    "PLU_Code": 4487,
+    "Name": "Retailer Assigned Other fruits"
+  },
+  {
+    "PLU_Code": 4488,
+    "Name": "Retailer Assigned Other fruits"
+  },
+  {
+    "PLU_Code": 4489,
+    "Name": "Retailer Assigned Other fruits"
+  },
+  {
+    "PLU_Code": 4490,
+    "Name": "Retailer Assigned Other fruits"
+  },
+  {
+    "PLU_Code": 4491,
+    "Name": "X-Lrg Ruby/Red/Pink Grapefruit"
+  },
+  {
+    "PLU_Code": 4492,
+    "Name": "X-Lrg Ruby/Red/Pink Grapefruit"
+  },
+  {
+    "PLU_Code": 4493,
+    "Name": "X-Lrg Ruby/Red/Pink Grapefruit"
+  },
+  {
+    "PLU_Code": 4494,
+    "Name": "X-Lrg Deep Red Grapefruit"
+  },
+  {
+    "PLU_Code": 4495,
+    "Name": "X-Lrg Deep Red Grapefruit"
+  },
+  {
+    "PLU_Code": 4496,
+    "Name": "X-Lrg Deep Red Grapefruit"
+  },
+  {
+    "PLU_Code": 4497,
+    "Name": "Sugraone/Autumn Seedless Grapes"
+  },
+  {
+    "PLU_Code": 4498,
+    "Name": "White/Green Seedless Grapes"
+  },
+  {
+    "PLU_Code": 4499,
+    "Name": "Crimson/Majestic Grapes"
+  },
+  {
+    "PLU_Code": 4500,
+    "Name": "Retailer Assigned Other vegetables"
+  },
+  {
+    "PLU_Code": 4501,
+    "Name": "Retailer Assigned Other vegetables"
+  },
+  {
+    "PLU_Code": 4502,
+    "Name": "Retailer Assigned Other vegetables"
+  },
+  {
+    "PLU_Code": 4503,
+    "Name": "Retailer Assigned Other vegetables"
+  },
+  {
+    "PLU_Code": 4504,
+    "Name": "Retailer Assigned Other vegetables"
+  },
+  {
+    "PLU_Code": 4505,
+    "Name": "Retailer Assigned Other vegetables"
+  },
+  {
+    "PLU_Code": 4506,
+    "Name": "Retailer Assigned Other vegetables"
+  },
+  {
+    "PLU_Code": 4507,
+    "Name": "Retailer Assigned Other vegetables"
+  },
+  {
+    "PLU_Code": 4508,
+    "Name": "Retailer Assigned Other vegetables"
+  },
+  {
+    "PLU_Code": 4509,
+    "Name": "Retailer Assigned Other vegetables"
+  },
+  {
+    "PLU_Code": 4510,
+    "Name": "Retailer Assigned Other vegetables"
+  },
+  {
+    "PLU_Code": 4511,
+    "Name": "Retailer Assigned Other vegetables"
+  },
+  {
+    "PLU_Code": 4512,
+    "Name": "Retailer Assigned Other vegetables"
+  },
+  {
+    "PLU_Code": 4513,
+    "Name": "Retailer Assigned Other vegetables"
+  },
+  {
+    "PLU_Code": 4514,
+    "Name": "Alfalfa sprouts"
+  },
+  {
+    "PLU_Code": 4515,
+    "Name": "Florence/Sweet Fennel/Fennel Bulb Fennel"
+  },
+  {
+    "PLU_Code": 4516,
+    "Name": "Small Artichokes"
+  },
+  {
+    "PLU_Code": 4517,
+    "Name": "Small Purple Artichokes"
+  },
+  {
+    "PLU_Code": 4518,
+    "Name": "Large Purple Artichokes"
+  },
+  {
+    "PLU_Code": 4519,
+    "Name": "Baby/Cocktail Artichokes"
+  },
+  {
+    "PLU_Code": 4520,
+    "Name": "Retailer Assigned Artichokes"
+  },
+  {
+    "PLU_Code": 4521,
+    "Name": "Large Green Asparagus"
+  },
+  {
+    "PLU_Code": 4522,
+    "Name": "Small White Asparagus"
+  },
+  {
+    "PLU_Code": 4523,
+    "Name": "Large White Asparagus"
+  },
+  {
+    "PLU_Code": 4524,
+    "Name": "Tips Asparagus"
+  },
+  {
+    "PLU_Code": 4525,
+    "Name": "Retailer Assigned Asparagus"
+  },
+  {
+    "PLU_Code": 4526,
+    "Name": "Retailer Assigned Asparagus"
+  },
+  {
+    "PLU_Code": 4527,
+    "Name": "Chinese Long/Snake Beans"
+  },
+  {
+    "PLU_Code": 4528,
+    "Name": "Fava/Broad Beans"
+  },
+  {
+    "PLU_Code": 4529,
+    "Name": "Lima Beans"
+  },
+  {
+    "PLU_Code": 4530,
+    "Name": "Pole/Runner/Stick Beans"
+  },
+  {
+    "PLU_Code": 4531,
+    "Name": "Purple Hull Beans"
+  },
+  {
+    "PLU_Code": 4532,
+    "Name": "Shell Beans"
+  },
+  {
+    "PLU_Code": 4533,
+    "Name": "Wax/Yellow Beans"
+  },
+  {
+    "PLU_Code": 4534,
+    "Name": "Winged Beans"
+  },
+  {
+    "PLU_Code": 4535,
+    "Name": "Retailer Assigned Beans"
+  },
+  {
+    "PLU_Code": 4536,
+    "Name": "Mung Bean Sprouts Bean sprouts"
+  },
+  {
+    "PLU_Code": 4537,
+    "Name": "Baby Golden Beets"
+  },
+  {
+    "PLU_Code": 4538,
+    "Name": "Baby Red Beets"
+  },
+  {
+    "PLU_Code": 4539,
+    "Name": "Bunch Beets"
+  },
+  {
+    "PLU_Code": 4540,
+    "Name": "Loose Beets"
+  },
+  {
+    "PLU_Code": 4541,
+    "Name": "Retailer Assigned Beets"
+  },
+  {
+    "PLU_Code": 4542,
+    "Name": "Beet greens"
+  },
+  {
+    "PLU_Code": 4543,
+    "Name": "Belgian endive (witloof chicory)"
+  },
+  {
+    "PLU_Code": 4544,
+    "Name": "Small/Baby Bok choy (pak choi)"
+  },
+  {
+    "PLU_Code": 4545,
+    "Name": "Bok choy (pak choi)"
+  },
+  {
+    "PLU_Code": 4546,
+    "Name": "See also SWEET POTATO Boniato"
+  },
+  {
+    "PLU_Code": 4547,
+    "Name": "Broccoli Rabe (Italian Rapini)/ Chinese Broccoli (GAI LAN) Broccoli"
+  },
+  {
+    "PLU_Code": 4548,
+    "Name": "Florettes Broccoli"
+  },
+  {
+    "PLU_Code": 4549,
+    "Name": "Retailer Assigned Broccoli"
+  },
+  {
+    "PLU_Code": 4550,
+    "Name": "Brussels sprouts"
+  },
+  {
+    "PLU_Code": 4551,
+    "Name": "Retailer Assigned Brussels sprouts"
+  },
+  {
+    "PLU_Code": 4552,
+    "Name": "Chinese/Napa/Wong Bok Cabbage"
+  },
+  {
+    "PLU_Code": 4553,
+    "Name": "Taylors Gold Pears"
+  },
+  {
+    "PLU_Code": 4554,
+    "Name": "Red Cabbage"
+  },
+  {
+    "PLU_Code": 4555,
+    "Name": "Savoy, Green Cabbage"
+  },
+  {
+    "PLU_Code": 4556,
+    "Name": "Retailer Assigned Cabbage"
+  },
+  {
+    "PLU_Code": 4557,
+    "Name": "Retailer Assigned Cabbage"
+  },
+  {
+    "PLU_Code": 4558,
+    "Name": "Cactus leaves (nopales/cactus pads)"
+  },
+  {
+    "PLU_Code": 4559,
+    "Name": "Cardoon (cardoni)"
+  },
+  {
+    "PLU_Code": 4560,
+    "Name": "Baby Carrots"
+  },
+  {
+    "PLU_Code": 4561,
+    "Name": "French Carrots"
+  },
+  {
+    "PLU_Code": 4562,
+    "Name": "Loose Carrots"
+  },
+  {
+    "PLU_Code": 4563,
+    "Name": "Carrot Sticks Carrots"
+  },
+  {
+    "PLU_Code": 4564,
+    "Name": "Retailer Assigned Carrots"
+  },
+  {
+    "PLU_Code": 4565,
+    "Name": "Retailer Assigned Carrots"
+  },
+  {
+    "PLU_Code": 4566,
+    "Name": "Florettes Cauliflower"
+  },
+  {
+    "PLU_Code": 4567,
+    "Name": "Green Cauliflower"
+  },
+  {
+    "PLU_Code": 4568,
+    "Name": "Purple Cauliflower"
+  },
+  {
+    "PLU_Code": 4569,
+    "Name": "Retailer Assigned Cauliflower"
+  },
+  {
+    "PLU_Code": 4570,
+    "Name": "Retailer Assigned Cauliflower"
+  },
+  {
+    "PLU_Code": 4571,
+    "Name": "Retailer Assigned Cauliflower"
+  },
+  {
+    "PLU_Code": 4572,
+    "Name": "Large Cauliflower"
+  },
+  {
+    "PLU_Code": 4573,
+    "Name": "Baby Cauliflower"
+  },
+  {
+    "PLU_Code": 4575,
+    "Name": "Hearts Celery"
+  },
+  {
+    "PLU_Code": 4576,
+    "Name": "Celery Sticks Celery"
+  },
+  {
+    "PLU_Code": 4577,
+    "Name": "Retailer Assigned Celery"
+  },
+  {
+    "PLU_Code": 4578,
+    "Name": "Retailer Assigned Celery"
+  },
+  {
+    "PLU_Code": 4579,
+    "Name": "Retailer Assigned Celery"
+  },
+  {
+    "PLU_Code": 4580,
+    "Name": "Retailer Assigned Celery"
+  },
+  {
+    "PLU_Code": 4581,
+    "Name": "Retailer Assigned Celery"
+  },
+  {
+    "PLU_Code": 4582,
+    "Name": "Large Bunch Celery"
+  },
+  {
+    "PLU_Code": 4583,
+    "Name": "Large Bunch Celery"
+  },
+  {
+    "PLU_Code": 4584,
+    "Name": "Large Green Mango"
+  },
+  {
+    "PLU_Code": 4585,
+    "Name": "Celery root/celeriac"
+  },
+  {
+    "PLU_Code": 4586,
+    "Name": "Green Chard (swiss chard)/silverbeet"
+  },
+  {
+    "PLU_Code": 4587,
+    "Name": "Red Chard (swiss chard)/silverbeet"
+  },
+  {
+    "PLU_Code": 4588,
+    "Name": "Retailer Assigned Chard (swiss chard)/silverbeet"
+  },
+  {
+    "PLU_Code": 4589,
+    "Name": "Sweet Corn, Baby Corn"
+  },
+  {
+    "PLU_Code": 4590,
+    "Name": "Sweet Corn, Bi-Color Corn"
+  },
+  {
+    "PLU_Code": 4591,
+    "Name": "Retailer Assigned Corn"
+  },
+  {
+    "PLU_Code": 4592,
+    "Name": "Armenian Cucumber"
+  },
+  {
+    "PLU_Code": 4593,
+    "Name": "English/Hot House/Long Seedless/Telegraph/Continental Cucumber"
+  },
+  {
+    "PLU_Code": 4594,
+    "Name": "Japanese/White Cucumber"
+  },
+  {
+    "PLU_Code": 4595,
+    "Name": "Lemon Cucumber"
+  },
+  {
+    "PLU_Code": 4596,
+    "Name": "Pickling/Gherkin Cucumber"
+  },
+  {
+    "PLU_Code": 4597,
+    "Name": "Retailer Assigned Cucumber"
+  },
+  {
+    "PLU_Code": 4598,
+    "Name": "(See also RADISH) Daikon"
+  },
+  {
+    "PLU_Code": 4599,
+    "Name": "Baby Eggplant (aubergine)"
+  },
+  {
+    "PLU_Code": 4600,
+    "Name": "Baby White Eggplant (aubergine)"
+  },
+  {
+    "PLU_Code": 4601,
+    "Name": "Japanese Eggplant (aubergine)"
+  },
+  {
+    "PLU_Code": 4602,
+    "Name": "White Eggplant (aubergine)"
+  },
+  {
+    "PLU_Code": 4603,
+    "Name": "Retailer Assigned Eggplant (aubergine)"
+  },
+  {
+    "PLU_Code": 4604,
+    "Name": "Endive/chicory"
+  },
+  {
+    "PLU_Code": 4605,
+    "Name": "Green Escarole/batavian chicory"
+  },
+  {
+    "PLU_Code": 4606,
+    "Name": "Fiddlehead ferns"
+  },
+  {
+    "PLU_Code": 4607,
+    "Name": "Gai (gui) choy (chinese or indian mustard)"
+  },
+  {
+    "PLU_Code": 4608,
+    "Name": "Regular Garlic"
+  },
+  {
+    "PLU_Code": 4609,
+    "Name": "Elephant Garlic"
+  },
+  {
+    "PLU_Code": 4610,
+    "Name": "Retailer Assigned Garlic"
+  },
+  {
+    "PLU_Code": 4611,
+    "Name": "Retailer Assigned Garlic"
+  },
+  {
+    "PLU_Code": 4612,
+    "Name": "Regular Ginger root"
+  },
+  {
+    "PLU_Code": 4613,
+    "Name": "Retailer Assigned Ginger root"
+  },
+  {
+    "PLU_Code": 4614,
+    "Name": "Collard Greens"
+  },
+  {
+    "PLU_Code": 4615,
+    "Name": "Dandelion Greens"
+  },
+  {
+    "PLU_Code": 4616,
+    "Name": "Mustard Greens"
+  },
+  {
+    "PLU_Code": 4617,
+    "Name": "Polk Greens Greens"
+  },
+  {
+    "PLU_Code": 4618,
+    "Name": "Texas Mustard Greens"
+  },
+  {
+    "PLU_Code": 4619,
+    "Name": "Turnip Greens"
+  },
+  {
+    "PLU_Code": 4620,
+    "Name": "Retailer Assigned Greens"
+  },
+  {
+    "PLU_Code": 4621,
+    "Name": "Retailer Assigned Greens"
+  },
+  {
+    "PLU_Code": 4622,
+    "Name": "Retailer Assigned Greens"
+  },
+  {
+    "PLU_Code": 4623,
+    "Name": "Retailer Assigned Greens"
+  },
+  {
+    "PLU_Code": 4624,
+    "Name": "Retailer Assigned Greens"
+  },
+  {
+    "PLU_Code": 4625,
+    "Name": "Horseradish root"
+  },
+  {
+    "PLU_Code": 4626,
+    "Name": "Jicama/yam bean"
+  },
+  {
+    "PLU_Code": 4627,
+    "Name": "Kale"
+  },
+  {
+    "PLU_Code": 4628,
+    "Name": "Kohlrabi"
+  },
+  {
+    "PLU_Code": 4629,
+    "Name": "Regular Leeks"
+  },
+  {
+    "PLU_Code": 4630,
+    "Name": "Baby Leeks"
+  },
+  {
+    "PLU_Code": 4631,
+    "Name": "Bibb/Flat/Round Lettuce"
+  },
+  {
+    "PLU_Code": 4632,
+    "Name": "Boston/Butter Lettuce"
+  },
+  {
+    "PLU_Code": 4633,
+    "Name": "Hydroponic Lettuce"
+  },
+  {
+    "PLU_Code": 4634,
+    "Name": "Iceberg Lettuce"
+  },
+  {
+    "PLU_Code": 4635,
+    "Name": "Red Seedless Grapes"
+  },
+  {
+    "PLU_Code": 4636,
+    "Name": "Red Globe Grapes"
+  },
+  {
+    "PLU_Code": 4637,
+    "Name": "Red Seeded Grapes"
+  },
+  {
+    "PLU_Code": 4638,
+    "Name": "Fantasy/Marroo Grapes"
+  },
+  {
+    "PLU_Code": 4639,
+    "Name": "Mache Lettuce"
+  },
+  {
+    "PLU_Code": 4640,
+    "Name": "Romaine/Cos Lettuce"
+  },
+  {
+    "PLU_Code": 4641,
+    "Name": "Retailer Assigned Lettuce"
+  },
+  {
+    "PLU_Code": 4642,
+    "Name": "Retailer Assigned Lettuce"
+  },
+  {
+    "PLU_Code": 4643,
+    "Name": "Retailer Assigned Lettuce"
+  },
+  {
+    "PLU_Code": 4644,
+    "Name": "Malanga"
+  },
+  {
+    "PLU_Code": 4645,
+    "Name": "Small Regular, Button Mushrooms"
+  },
+  {
+    "PLU_Code": 4646,
+    "Name": "Black Forest Mushrooms"
+  },
+  {
+    "PLU_Code": 4647,
+    "Name": "Chanterelle Mushrooms"
+  },
+  {
+    "PLU_Code": 4648,
+    "Name": "Cremini/Brown/Swiss Brown Mushrooms"
+  },
+  {
+    "PLU_Code": 4649,
+    "Name": "Oyster Mushrooms"
+  },
+  {
+    "PLU_Code": 4650,
+    "Name": "Portabella Mushrooms"
+  },
+  {
+    "PLU_Code": 4651,
+    "Name": "Shiitake Mushrooms"
+  },
+  {
+    "PLU_Code": 4652,
+    "Name": "Wood Ear Mushrooms"
+  },
+  {
+    "PLU_Code": 4653,
+    "Name": "Retailer Assigned Mushrooms"
+  },
+  {
+    "PLU_Code": 4654,
+    "Name": "Retailer Assigned Mushrooms"
+  },
+  {
+    "PLU_Code": 4655,
+    "Name": "Regular (Green) Okra"
+  },
+  {
+    "PLU_Code": 4656,
+    "Name": "Chinese Okra"
+  },
+  {
+    "PLU_Code": 4657,
+    "Name": "Red Okra"
+  },
+  {
+    "PLU_Code": 4658,
+    "Name": "Boiling Onions"
+  },
+  {
+    "PLU_Code": 4659,
+    "Name": "Bulb Onions"
+  },
+  {
+    "PLU_Code": 4660,
+    "Name": "Pearl Onions"
+  },
+  {
+    "PLU_Code": 4661,
+    "Name": "Pickling, White Onions"
+  },
+  {
+    "PLU_Code": 4662,
+    "Name": "Shallots Onions"
+  },
+  {
+    "PLU_Code": 4663,
+    "Name": "White Onions"
+  },
+  {
+    "PLU_Code": 4664,
+    "Name": "Regular Tomatoes"
+  },
+  {
+    "PLU_Code": 4665,
+    "Name": "Small Yellow/Brown Onions"
+  },
+  {
+    "PLU_Code": 4666,
+    "Name": "Retailer Assigned Onions"
+  },
+  {
+    "PLU_Code": 4667,
+    "Name": "Retailer Assigned Onions"
+  },
+  {
+    "PLU_Code": 4668,
+    "Name": "Retailer Assigned Onions"
+  },
+  {
+    "PLU_Code": 4669,
+    "Name": "Retailer Assigned Onions"
+  },
+  {
+    "PLU_Code": 4670,
+    "Name": "Retailer Assigned Onions"
+  },
+  {
+    "PLU_Code": 4671,
+    "Name": "Parsley root(hamburg parsley)"
+  },
+  {
+    "PLU_Code": 4672,
+    "Name": "Parsnip"
+  },
+  {
+    "PLU_Code": 4673,
+    "Name": "Blackeyed Peas"
+  },
+  {
+    "PLU_Code": 4674,
+    "Name": "Green Peas"
+  },
+  {
+    "PLU_Code": 4675,
+    "Name": "Sugar Snap Peas"
+  },
+  {
+    "PLU_Code": 4676,
+    "Name": "Retailer Assigned Peas"
+  },
+  {
+    "PLU_Code": 4677,
+    "Name": "Anaheim (Green and Red) Peppers (capsicums)"
+  },
+  {
+    "PLU_Code": 4678,
+    "Name": "Banana (Yellow Long) Peppers (capsicums)"
+  },
+  {
+    "PLU_Code": 4679,
+    "Name": "Bell, Field Grown Peppers (capsicums)"
+  },
+  {
+    "PLU_Code": 4680,
+    "Name": "Bell, Field Grown Peppers (capsicums)"
+  },
+  {
+    "PLU_Code": 4681,
+    "Name": "Small Bell, Field Grown Peppers (capsicums)"
+  },
+  {
+    "PLU_Code": 4682,
+    "Name": "Bell, Field Grown Peppers (capsicums)"
+  },
+  {
+    "PLU_Code": 4683,
+    "Name": "Bell, Field Grown Peppers (capsicums)"
+  },
+  {
+    "PLU_Code": 4684,
+    "Name": "Bell, Field Grown Peppers (capsicums)"
+  },
+  {
+    "PLU_Code": 4685,
+    "Name": "Chili Peppers (capsicums)"
+  },
+  {
+    "PLU_Code": 4686,
+    "Name": "Chili Peppers (capsicums)"
+  },
+  {
+    "PLU_Code": 4687,
+    "Name": "Cubanelle Peppers (capsicums)"
+  },
+  {
+    "PLU_Code": 4688,
+    "Name": "Bell, Greenhouse Peppers (capsicums)"
+  },
+  {
+    "PLU_Code": 4689,
+    "Name": "Bell, Greenhouse Peppers (capsicums)"
+  },
+  {
+    "PLU_Code": 4690,
+    "Name": "Hot (Hungarian Hot) Peppers (capsicums)"
+  },
+  {
+    "PLU_Code": 4691,
+    "Name": "Hot Mixed Peppers (capsicums)"
+  },
+  {
+    "PLU_Code": 4692,
+    "Name": "Hungarian Wax Peppers (capsicums)"
+  },
+  {
+    "PLU_Code": 4693,
+    "Name": "Jalapeno Peppers (capsicums)"
+  },
+  {
+    "PLU_Code": 4694,
+    "Name": "Jalapeno Peppers (capsicums)"
+  },
+  {
+    "PLU_Code": 4695,
+    "Name": "Japanese Peppers (capsicums)"
+  },
+  {
+    "PLU_Code": 4696,
+    "Name": "Long Hot Peppers (capsicums)"
+  },
+  {
+    "PLU_Code": 4697,
+    "Name": "Long Hot Peppers (capsicums)"
+  },
+  {
+    "PLU_Code": 4698,
+    "Name": "Morita Chili Peppers (capsicums)"
+  },
+  {
+    "PLU_Code": 4699,
+    "Name": "Negro Peppers (capsicums)"
+  },
+  {
+    "PLU_Code": 4700,
+    "Name": "New Mexico Peppers (capsicums)"
+  },
+  {
+    "PLU_Code": 4701,
+    "Name": "Pasilla Peppers (capsicums)"
+  },
+  {
+    "PLU_Code": 4702,
+    "Name": "Pasilla Peppers (capsicums)"
+  },
+  {
+    "PLU_Code": 4703,
+    "Name": "Pasilla Pod Peppers (capsicums)"
+  },
+  {
+    "PLU_Code": 4704,
+    "Name": "Pinole Peppers (capsicums)"
+  },
+  {
+    "PLU_Code": 4705,
+    "Name": "Poblano Peppers (capsicums)"
+  },
+  {
+    "PLU_Code": 4706,
+    "Name": "Red Cheese Peppers (capsicums)"
+  },
+  {
+    "PLU_Code": 4707,
+    "Name": "Red Finger Peppers (capsicums)"
+  },
+  {
+    "PLU_Code": 4708,
+    "Name": "Red Pimiento/ Red Sweet Long Peppers (capsicums)"
+  },
+  {
+    "PLU_Code": 4709,
+    "Name": "Serrano Peppers (capsicums)"
+  },
+  {
+    "PLU_Code": 4710,
+    "Name": "Retailer Assigned Peppers (capsicums)"
+  },
+  {
+    "PLU_Code": 4711,
+    "Name": "Retailer Assigned Peppers (capsicums)"
+  },
+  {
+    "PLU_Code": 4712,
+    "Name": "Retailer Assigned Peppers (capsicums)"
+  },
+  {
+    "PLU_Code": 4713,
+    "Name": "Retailer Assigned Peppers (capsicums)"
+  },
+  {
+    "PLU_Code": 4714,
+    "Name": "Retailer Assigned Peppers (capsicums)"
+  },
+  {
+    "PLU_Code": 4715,
+    "Name": "Retailer Assigned Peppers (capsicums)"
+  },
+  {
+    "PLU_Code": 4716,
+    "Name": "Retailer Assigned Peppers (capsicums)"
+  },
+  {
+    "PLU_Code": 4717,
+    "Name": "Retailer Assigned Peppers (capsicums)"
+  },
+  {
+    "PLU_Code": 4718,
+    "Name": "Retailer Assigned Peppers (capsicums)"
+  },
+  {
+    "PLU_Code": 4719,
+    "Name": "Retailer Assigned Peppers (capsicums)"
+  },
+  {
+    "PLU_Code": 4720,
+    "Name": "Retailer Assigned Peppers (capsicums)"
+  },
+  {
+    "PLU_Code": 4721,
+    "Name": "Retailer Assigned Peppers (capsicums)"
+  },
+  {
+    "PLU_Code": 4722,
+    "Name": "Retailer Assigned Peppers (capsicums)"
+  },
+  {
+    "PLU_Code": 4723,
+    "Name": "Creamer Potato"
+  },
+  {
+    "PLU_Code": 4724,
+    "Name": "Creamer Potato"
+  },
+  {
+    "PLU_Code": 4725,
+    "Name": "Russet Potato"
+  },
+  {
+    "PLU_Code": 4726,
+    "Name": "Long Potato"
+  },
+  {
+    "PLU_Code": 4727,
+    "Name": "Yellow Potato"
+  },
+  {
+    "PLU_Code": 4728,
+    "Name": "Retailer Assigned Potato"
+  },
+  {
+    "PLU_Code": 4729,
+    "Name": "Retailer Assigned Potato"
+  },
+  {
+    "PLU_Code": 4730,
+    "Name": "Retailer Assigned Potato"
+  },
+  {
+    "PLU_Code": 4731,
+    "Name": "Retailer Assigned Potato"
+  },
+  {
+    "PLU_Code": 4732,
+    "Name": "Retailer Assigned Potato"
+  },
+  {
+    "PLU_Code": 4733,
+    "Name": "Retailer Assigned Potato"
+  },
+  {
+    "PLU_Code": 4734,
+    "Name": "Mini Pumpkin"
+  },
+  {
+    "PLU_Code": 4735,
+    "Name": "Regular Pumpkin"
+  },
+  {
+    "PLU_Code": 4736,
+    "Name": "Retailer Assigned Pumpkin"
+  },
+  {
+    "PLU_Code": 4737,
+    "Name": "Retailer Assigned Pumpkin"
+  },
+  {
+    "PLU_Code": 4738,
+    "Name": "Radicchio"
+  },
+  {
+    "PLU_Code": 4739,
+    "Name": "Black Radish"
+  },
+  {
+    "PLU_Code": 4740,
+    "Name": "Bunched White Radish"
+  },
+  {
+    "PLU_Code": 4741,
+    "Name": "Italian Red Radish"
+  },
+  {
+    "PLU_Code": 4742,
+    "Name": "Red Radish"
+  },
+  {
+    "PLU_Code": 4743,
+    "Name": "White/Icicle Radish"
+  },
+  {
+    "PLU_Code": 4744,
+    "Name": "Retailer Assigned Radish"
+  },
+  {
+    "PLU_Code": 4745,
+    "Name": "Regular Rhubarb"
+  },
+  {
+    "PLU_Code": 4746,
+    "Name": "Retailer Assigned Rhubarb"
+  },
+  {
+    "PLU_Code": 4747,
+    "Name": "Regular Rutabagas (swede)"
+  },
+  {
+    "PLU_Code": 4748,
+    "Name": "Retailer Assigned Rutabagas (swede)"
+  },
+  {
+    "PLU_Code": 4749,
+    "Name": "Retailer Assigned Spinach"
+  },
+  {
+    "PLU_Code": 4750,
+    "Name": "Acorn/Table Queen Squash"
+  },
+  {
+    "PLU_Code": 4751,
+    "Name": "Acorn Squash"
+  },
+  {
+    "PLU_Code": 4752,
+    "Name": "Acorn Squash"
+  },
+  {
+    "PLU_Code": 4753,
+    "Name": "Australian Blue Squash"
+  },
+  {
+    "PLU_Code": 4754,
+    "Name": "Baby Scallopini Squash"
+  },
+  {
+    "PLU_Code": 4755,
+    "Name": "Baby Summer (Green) Squash"
+  },
+  {
+    "PLU_Code": 4756,
+    "Name": "Baby Green Zucchini/Courgette Squash"
+  },
+  {
+    "PLU_Code": 4757,
+    "Name": "Banana Squash"
+  },
+  {
+    "PLU_Code": 4758,
+    "Name": "Buttercup Squash"
+  },
+  {
+    "PLU_Code": 4759,
+    "Name": "Butternut Squash"
+  },
+  {
+    "PLU_Code": 4760,
+    "Name": "Calabaza Squash"
+  },
+  {
+    "PLU_Code": 4761,
+    "Name": "Chayote/Choko Squash"
+  },
+  {
+    "PLU_Code": 4762,
+    "Name": "Extra Large Artichokes"
+  },
+  {
+    "PLU_Code": 4763,
+    "Name": "Delicata/Sweet Potato Squash"
+  },
+  {
+    "PLU_Code": 4764,
+    "Name": "(Sweet) Dumpling Squash"
+  },
+  {
+    "PLU_Code": 4765,
+    "Name": "Gem Squash"
+  },
+  {
+    "PLU_Code": 4766,
+    "Name": "Golden Delicious Squash"
+  },
+  {
+    "PLU_Code": 4767,
+    "Name": "Golden Nugget Squash"
+  },
+  {
+    "PLU_Code": 4768,
+    "Name": "Hubbard Squash"
+  },
+  {
+    "PLU_Code": 4769,
+    "Name": "Kabocha Squash"
+  },
+  {
+    "PLU_Code": 4770,
+    "Name": "Extra Large Hass Avocados"
+  },
+  {
+    "PLU_Code": 4771,
+    "Name": "Medium Green Avocados"
+  },
+  {
+    "PLU_Code": 4772,
+    "Name": "Chili Peppers (capsicums)"
+  },
+  {
+    "PLU_Code": 4773,
+    "Name": "Patty Pan/Summer Squash"
+  },
+  {
+    "PLU_Code": 4774,
+    "Name": "Red Kuri Squash"
+  },
+  {
+    "PLU_Code": 4775,
+    "Name": "Scallopini Squash"
+  },
+  {
+    "PLU_Code": 4776,
+    "Name": "Spaghetti/Vegetable Spaghetti Squash"
+  },
+  {
+    "PLU_Code": 4777,
+    "Name": "Sunburst (Yellow) Squash"
+  },
+  {
+    "PLU_Code": 4778,
+    "Name": "Regular Tomatoes"
+  },
+  {
+    "PLU_Code": 4779,
+    "Name": "Sweet Mama Squash"
+  },
+  {
+    "PLU_Code": 4780,
+    "Name": "Turban Squash"
+  },
+  {
+    "PLU_Code": 4781,
+    "Name": "White Squash"
+  },
+  {
+    "PLU_Code": 4782,
+    "Name": "Yellow Squash"
+  },
+  {
+    "PLU_Code": 4783,
+    "Name": "Foo Qua Bitter melon/bitter gourd, foo qua"
+  },
+  {
+    "PLU_Code": 4784,
+    "Name": "Yellow Squash"
+  },
+  {
+    "PLU_Code": 4785,
+    "Name": "Retailer Assigned Squash"
+  },
+  {
+    "PLU_Code": 4786,
+    "Name": "Retailer Assigned Squash"
+  },
+  {
+    "PLU_Code": 4787,
+    "Name": "Retailer Assigned Squash"
+  },
+  {
+    "PLU_Code": 4788,
+    "Name": "Retailer Assigned Squash"
+  },
+  {
+    "PLU_Code": 4789,
+    "Name": "Retailer Assigned Squash"
+  },
+  {
+    "PLU_Code": 4790,
+    "Name": "Sugar cane"
+  },
+  {
+    "PLU_Code": 4791,
+    "Name": "Sunchokes (jerusalem artichokes)"
+  },
+  {
+    "PLU_Code": 4792,
+    "Name": "Golden Tamarillo"
+  },
+  {
+    "PLU_Code": 4793,
+    "Name": "Red Tamarillo"
+  },
+  {
+    "PLU_Code": 4794,
+    "Name": "Small Taro root (dasheen)"
+  },
+  {
+    "PLU_Code": 4795,
+    "Name": "Large Taro root (dasheen)"
+  },
+  {
+    "PLU_Code": 4796,
+    "Name": "Cherry Tomatoes"
+  },
+  {
+    "PLU_Code": 4797,
+    "Name": "Cherry Tomatoes"
+  },
+  {
+    "PLU_Code": 4798,
+    "Name": "Small Greenhouse/Hydroponic/Regular Tomatoes"
+  },
+  {
+    "PLU_Code": 4799,
+    "Name": "Large Greenhouse/Hydroponic/Regular Tomatoes"
+  },
+  {
+    "PLU_Code": 4800,
+    "Name": "Native/Home Grown Tomatoes"
+  },
+  {
+    "PLU_Code": 4801,
+    "Name": "Tomatillos/Husk Tomatoes Tomatoes"
+  },
+  {
+    "PLU_Code": 4802,
+    "Name": "Dried Tomatoes"
+  },
+  {
+    "PLU_Code": 4803,
+    "Name": "Teardrop/Pear Tomatoes"
+  },
+  {
+    "PLU_Code": 4804,
+    "Name": "Teardrop/Pear Tomatoes"
+  },
+  {
+    "PLU_Code": 4805,
+    "Name": "Small Vine Ripe, Regular Tomatoes"
+  },
+  {
+    "PLU_Code": 4806,
+    "Name": "Retailer Assigned Tomatoes"
+  },
+  {
+    "PLU_Code": 4807,
+    "Name": "Retailer Assigned Tomatoes"
+  },
+  {
+    "PLU_Code": 4808,
+    "Name": "Retailer Assigned Tomatoes"
+  },
+  {
+    "PLU_Code": 4809,
+    "Name": "Baby Turnip"
+  },
+  {
+    "PLU_Code": 4810,
+    "Name": "Bunch/Banded Turnip"
+  },
+  {
+    "PLU_Code": 4811,
+    "Name": "Purple Top Turnip"
+  },
+  {
+    "PLU_Code": 4812,
+    "Name": "White Turnip"
+  },
+  {
+    "PLU_Code": 4813,
+    "Name": "Retailer Assigned Turnip"
+  },
+  {
+    "PLU_Code": 4814,
+    "Name": "Water chestnuts"
+  },
+  {
+    "PLU_Code": 4815,
+    "Name": "Watercress"
+  },
+  {
+    "PLU_Code": 4816,
+    "Name": "Golden Sweet potato/yam/kumara"
+  },
+  {
+    "PLU_Code": 4817,
+    "Name": "Large Red/Orangy Red Flesh Sweet potato/yam/kumara"
+  },
+  {
+    "PLU_Code": 4818,
+    "Name": "Retailer Assigned Name"
+  },
+  {
+    "PLU_Code": 4819,
+    "Name": "Yuca root/cassava/manioc"
+  },
+  {
+    "PLU_Code": 4820,
+    "Name": "Retailer Assigned Other vegetables"
+  },
+  {
+    "PLU_Code": 4821,
+    "Name": "Retailer Assigned Other vegetables"
+  },
+  {
+    "PLU_Code": 4822,
+    "Name": "Retailer Assigned Other vegetables"
+  },
+  {
+    "PLU_Code": 4823,
+    "Name": "Retailer Assigned Other vegetables"
+  },
+  {
+    "PLU_Code": 4824,
+    "Name": "Retailer Assigned Other vegetables"
+  },
+  {
+    "PLU_Code": 4825,
+    "Name": "Retailer Assigned Other vegetables"
+  },
+  {
+    "PLU_Code": 4826,
+    "Name": "Retailer Assigned Other vegetables"
+  },
+  {
+    "PLU_Code": 4827,
+    "Name": "Retailer Assigned Other vegetables"
+  },
+  {
+    "PLU_Code": 4828,
+    "Name": "Retailer Assigned Other vegetables"
+  },
+  {
+    "PLU_Code": 4829,
+    "Name": "Retailer Assigned Other vegetables"
+  },
+  {
+    "PLU_Code": 4830,
+    "Name": "Retailer Assigned Other vegetables"
+  },
+  {
+    "PLU_Code": 4831,
+    "Name": "Retailer Assigned Other vegetables"
+  },
+  {
+    "PLU_Code": 4832,
+    "Name": "Retailer Assigned Other vegetables"
+  },
+  {
+    "PLU_Code": 4833,
+    "Name": "Retailer Assigned Other vegetables"
+  },
+  {
+    "PLU_Code": 4834,
+    "Name": "Retailer Assigned Other vegetables"
+  },
+  {
+    "PLU_Code": 4835,
+    "Name": "Retailer Assigned Other vegetables"
+  },
+  {
+    "PLU_Code": 4836,
+    "Name": "Retailer Assigned Other vegetables"
+  },
+  {
+    "PLU_Code": 4837,
+    "Name": "Retailer Assigned Other vegetables"
+  },
+  {
+    "PLU_Code": 4838,
+    "Name": "Retailer Assigned Other vegetables"
+  },
+  {
+    "PLU_Code": 4839,
+    "Name": "Retailer Assigned Other vegetables"
+  },
+  {
+    "PLU_Code": 4840,
+    "Name": "Retailer Assigned Other vegetables"
+  },
+  {
+    "PLU_Code": 4841,
+    "Name": "Retailer Assigned Other vegetables"
+  },
+  {
+    "PLU_Code": 4842,
+    "Name": "Retailer Assigned Other vegetables"
+  },
+  {
+    "PLU_Code": 4843,
+    "Name": "Retailer Assigned Other vegetables"
+  },
+  {
+    "PLU_Code": 4844,
+    "Name": "Retailer Assigned Other vegetables"
+  },
+  {
+    "PLU_Code": 4845,
+    "Name": "Retailer Assigned Other vegetables"
+  },
+  {
+    "PLU_Code": 4846,
+    "Name": "Retailer Assigned Other vegetables"
+  },
+  {
+    "PLU_Code": 4847,
+    "Name": "Retailer Assigned Other vegetables"
+  },
+  {
+    "PLU_Code": 4848,
+    "Name": "Retailer Assigned Other vegetables"
+  },
+  {
+    "PLU_Code": 4849,
+    "Name": "Retailer Assigned Other vegetables"
+  },
+  {
+    "PLU_Code": 4850,
+    "Name": "Retailer Assigned Other vegetables"
+  },
+  {
+    "PLU_Code": 4851,
+    "Name": "Retailer Assigned Other vegetables"
+  },
+  {
+    "PLU_Code": 4852,
+    "Name": "Retailer Assigned Other vegetables"
+  },
+  {
+    "PLU_Code": 4853,
+    "Name": "Retailer Assigned Other vegetables"
+  },
+  {
+    "PLU_Code": 4854,
+    "Name": "Retailer Assigned Other vegetables"
+  },
+  {
+    "PLU_Code": 4855,
+    "Name": "Retailer Assigned Other vegetables"
+  },
+  {
+    "PLU_Code": 4856,
+    "Name": "Retailer Assigned Other vegetables"
+  },
+  {
+    "PLU_Code": 4857,
+    "Name": "Retailer Assigned Other vegetables"
+  },
+  {
+    "PLU_Code": 4858,
+    "Name": "Retailer Assigned Other vegetables"
+  },
+  {
+    "PLU_Code": 4859,
+    "Name": "Retailer Assigned Other vegetables"
+  },
+  {
+    "PLU_Code": 4860,
+    "Name": "(Dried Fruit) Apple slices"
+  },
+  {
+    "PLU_Code": 4861,
+    "Name": "(Dried Fruit) Apricots"
+  },
+  {
+    "PLU_Code": 4862,
+    "Name": "(Dried Fruit) Dates"
+  },
+  {
+    "PLU_Code": 4863,
+    "Name": "Retailer Assigned Dates"
+  },
+  {
+    "PLU_Code": 4864,
+    "Name": "(Dried Fruit) Pineapple"
+  },
+  {
+    "PLU_Code": 4865,
+    "Name": "Regular Prunes"
+  },
+  {
+    "PLU_Code": 4866,
+    "Name": "Pitted Prunes"
+  },
+  {
+    "PLU_Code": 4867,
+    "Name": "Retailer Assigned Prunes"
+  },
+  {
+    "PLU_Code": 4868,
+    "Name": "Black Raisins"
+  },
+  {
+    "PLU_Code": 4869,
+    "Name": "Golden/Yellow Raisins"
+  },
+  {
+    "PLU_Code": 4870,
+    "Name": "Retailer Assigned Other dried fruits"
+  },
+  {
+    "PLU_Code": 4871,
+    "Name": "Retailer Assigned Other dried fruits"
+  },
+  {
+    "PLU_Code": 4872,
+    "Name": "Retailer Assigned Other dried fruits"
+  },
+  {
+    "PLU_Code": 4873,
+    "Name": "Retailer Assigned Other dried fruits"
+  },
+  {
+    "PLU_Code": 4874,
+    "Name": "Retailer Assigned Other dried fruits"
+  },
+  {
+    "PLU_Code": 4875,
+    "Name": "Retailer Assigned Other dried fruits"
+  },
+  {
+    "PLU_Code": 4876,
+    "Name": "Retailer Assigned Other dried fruits"
+  },
+  {
+    "PLU_Code": 4877,
+    "Name": "Retailer Assigned Other dried fruits"
+  },
+  {
+    "PLU_Code": 4878,
+    "Name": "Retailer Assigned Other dried fruits"
+  },
+  {
+    "PLU_Code": 4879,
+    "Name": "Retailer Assigned Other dried fruits"
+  },
+  {
+    "PLU_Code": 4880,
+    "Name": "Retailer Assigned Other dried fruits"
+  },
+  {
+    "PLU_Code": 4881,
+    "Name": "Retailer Assigned Other dried fruits"
+  },
+  {
+    "PLU_Code": 4882,
+    "Name": "Retailer Assigned Other dried fruits"
+  },
+  {
+    "PLU_Code": 4883,
+    "Name": "Retailer Assigned Other dried fruits"
+  },
+  {
+    "PLU_Code": 4884,
+    "Name": "Arugula/rocket"
+  },
+  {
+    "PLU_Code": 4885,
+    "Name": "Basil"
+  },
+  {
+    "PLU_Code": 4886,
+    "Name": "Opal Basil"
+  },
+  {
+    "PLU_Code": 4887,
+    "Name": "Sweet Basil"
+  },
+  {
+    "PLU_Code": 4888,
+    "Name": "Chives"
+  },
+  {
+    "PLU_Code": 4889,
+    "Name": "Cilantro (chinese parsley/coriander)"
+  },
+  {
+    "PLU_Code": 4890,
+    "Name": "Chinese Yali Pears"
+  },
+  {
+    "PLU_Code": 4891,
+    "Name": "Dill"
+  },
+  {
+    "PLU_Code": 4892,
+    "Name": "Baby Dill"
+  },
+  {
+    "PLU_Code": 4893,
+    "Name": "Pickling Dill"
+  },
+  {
+    "PLU_Code": 4894,
+    "Name": "Lemongrass"
+  },
+  {
+    "PLU_Code": 4895,
+    "Name": "Marjoram"
+  },
+  {
+    "PLU_Code": 4896,
+    "Name": "Mint"
+  },
+  {
+    "PLU_Code": 4897,
+    "Name": "Oregano"
+  },
+  {
+    "PLU_Code": 4898,
+    "Name": "Oyster plant/salsify"
+  },
+  {
+    "PLU_Code": 4899,
+    "Name": "Regular/Curly Parsley"
+  },
+  {
+    "PLU_Code": 4901,
+    "Name": "Italian/Continental/French Parsley"
+  },
+  {
+    "PLU_Code": 4902,
+    "Name": "Retailer Assigned Parsley"
+  },
+  {
+    "PLU_Code": 4903,
+    "Name": "Rosemary"
+  },
+  {
+    "PLU_Code": 4904,
+    "Name": "Sage"
+  },
+  {
+    "PLU_Code": 4905,
+    "Name": "Sorrel"
+  },
+  {
+    "PLU_Code": 4906,
+    "Name": "Tarragon"
+  },
+  {
+    "PLU_Code": 4907,
+    "Name": "Thyme"
+  },
+  {
+    "PLU_Code": 4908,
+    "Name": "Vanilla bean"
+  },
+  {
+    "PLU_Code": 4909,
+    "Name": "Retailer Assigned Other herbs"
+  },
+  {
+    "PLU_Code": 4910,
+    "Name": "Retailer Assigned Other herbs"
+  },
+  {
+    "PLU_Code": 4911,
+    "Name": "Retailer Assigned Other herbs"
+  },
+  {
+    "PLU_Code": 4912,
+    "Name": "Retailer Assigned Other herbs"
+  },
+  {
+    "PLU_Code": 4913,
+    "Name": "Retailer Assigned Other herbs"
+  },
+  {
+    "PLU_Code": 4914,
+    "Name": "Retailer Assigned Other herbs"
+  },
+  {
+    "PLU_Code": 4915,
+    "Name": "Retailer Assigned Other herbs"
+  },
+  {
+    "PLU_Code": 4916,
+    "Name": "Retailer Assigned Other herbs"
+  },
+  {
+    "PLU_Code": 4917,
+    "Name": "Retailer Assigned Other herbs"
+  },
+  {
+    "PLU_Code": 4918,
+    "Name": "Retailer Assigned Other herbs"
+  },
+  {
+    "PLU_Code": 4919,
+    "Name": "Retailer Assigned Other herbs"
+  },
+  {
+    "PLU_Code": 4920,
+    "Name": "Retailer Assigned Other herbs"
+  },
+  {
+    "PLU_Code": 4921,
+    "Name": "Retailer Assigned Other herbs"
+  },
+  {
+    "PLU_Code": 4922,
+    "Name": "Retailer Assigned Other herbs"
+  },
+  {
+    "PLU_Code": 4923,
+    "Name": "Retailer Assigned Other herbs"
+  },
+  {
+    "PLU_Code": 4924,
+    "Name": "Almonds"
+  },
+  {
+    "PLU_Code": 4925,
+    "Name": "Retailer Assigned Almonds"
+  },
+  {
+    "PLU_Code": 4926,
+    "Name": "Brazilnuts"
+  },
+  {
+    "PLU_Code": 4927,
+    "Name": "Chestnuts"
+  },
+  {
+    "PLU_Code": 4928,
+    "Name": "Cobnut/Hazelnut Filberts"
+  },
+  {
+    "PLU_Code": 4929,
+    "Name": "Mixed nuts"
+  },
+  {
+    "PLU_Code": 4930,
+    "Name": "Peanuts"
+  },
+  {
+    "PLU_Code": 4931,
+    "Name": "Raw Peanuts"
+  },
+  {
+    "PLU_Code": 4932,
+    "Name": "Roasted Peanuts"
+  },
+  {
+    "PLU_Code": 4933,
+    "Name": "Roasted Peanuts"
+  },
+  {
+    "PLU_Code": 4934,
+    "Name": "Retailer Assigned Peanuts"
+  },
+  {
+    "PLU_Code": 4935,
+    "Name": "Retailer Assigned Peanuts"
+  },
+  {
+    "PLU_Code": 4936,
+    "Name": "Pecans"
+  },
+  {
+    "PLU_Code": 4937,
+    "Name": "Retailer Assigned Pecans"
+  },
+  {
+    "PLU_Code": 4938,
+    "Name": "Pine nuts (pignoli)"
+  },
+  {
+    "PLU_Code": 4939,
+    "Name": "Natural Pistachio"
+  },
+  {
+    "PLU_Code": 4940,
+    "Name": "Red Pistachio"
+  },
+  {
+    "PLU_Code": 4941,
+    "Name": "Retailer Assigned Pistachio"
+  },
+  {
+    "PLU_Code": 4942,
+    "Name": "Sunflower seeds"
+  },
+  {
+    "PLU_Code": 4943,
+    "Name": "Regular Walnuts"
+  },
+  {
+    "PLU_Code": 4944,
+    "Name": "Black Walnuts"
+  },
+  {
+    "PLU_Code": 4945,
+    "Name": "White Walnuts"
+  },
+  {
+    "PLU_Code": 4946,
+    "Name": "Retailer Assigned Walnuts"
+  },
+  {
+    "PLU_Code": 4947,
+    "Name": "Retailer Assigned Other nuts"
+  },
+  {
+    "PLU_Code": 4948,
+    "Name": "Retailer Assigned Other nuts"
+  },
+  {
+    "PLU_Code": 4949,
+    "Name": "Retailer Assigned Other nuts"
+  },
+  {
+    "PLU_Code": 4950,
+    "Name": "Retailer Assigned Pears"
+  },
+  {
+    "PLU_Code": 4951,
+    "Name": "Retailer Assigned Other nuts"
+  },
+  {
+    "PLU_Code": 4952,
+    "Name": "Retailer Assigned Other nuts"
+  },
+  {
+    "PLU_Code": 4953,
+    "Name": "Retailer Assigned Other nuts"
+  },
+  {
+    "PLU_Code": 4954,
+    "Name": "Retailer Assigned Other nuts"
+  },
+  {
+    "PLU_Code": 4955,
+    "Name": "Retailer Assigned Other nuts"
+  },
+  {
+    "PLU_Code": 4956,
+    "Name": "Retailer Assigned Other nuts"
+  },
+  {
+    "PLU_Code": 4957,
+    "Name": "Blue/Black Seeded Grapes"
+  },
+  {
+    "PLU_Code": 4958,
+    "Name": "Medium Lemons"
+  },
+  {
+    "PLU_Code": 4959,
+    "Name": "Large Red Mango"
+  },
+  {
+    "PLU_Code": 4960,
+    "Name": "Fragrant Pears"
+  },
+  {
+    "PLU_Code": 4961,
+    "Name": "Large Yellow Mango"
+  }
+]
