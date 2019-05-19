@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <ScrollView
+        android:layout_width="wrap_content"
+        android:layout_height="726dp"
+        android:layout_marginStart="8dp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="1.0"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+            <FrameLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content">
+
+                <ImageView
+                    android:id="@+id/cover_image"
+                    android:layout_width="500dp"
+                    android:layout_height="200dp"
+                    android:layout_marginStart="-40dp"
+                    android:scaleType="centerCrop"
+                    android:scaleX="1"
+                    android:scaleY="1"
+                    tools:srcCompat="@tools:sample/backgrounds/scenic" />
+
+                <de.hdodenhof.circleimageview.CircleImageView
+                    android:id="@+id/profile_image"
+                    android:layout_width="match_parent"
+                    android:layout_height="200dp"
+                    android:layout_marginTop="60dp"
+                    android:src="@drawable/farmer_john"
+                    app:civ_border_color="@color/colorAccent"
+                    app:civ_border_width="10dp" />
+
+            </FrameLayout>
+
+            <TextView
+                android:id="@+id/producer_name"
+                android:layout_width="match_parent"
+                android:layout_height="50dp"
+                android:fontFamily="@font/roboto_bold"
+                android:gravity="center"
+                android:text="Farmer John"
+                android:textColor="@color/colorPrimaryDark"
+                android:textSize="36sp" />
+
+        </LinearLayout>
+    </ScrollView>
+
+
+
+</android.support.constraint.ConstraintLayout>
