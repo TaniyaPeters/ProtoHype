@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "762534502400",
+    "firebase_url": "https://protohype-a42d3.firebaseio.com",
+    "project_id": "protohype-a42d3",
+    "storage_bucket": "protohype-a42d3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:762534502400:android:e6b648523cf5e161",
+        "android_client_info": {
+          "package_name": "com.example.protohype"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "762534502400-08t0nlgemi5vl1th253n12kmpofni286.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.protohype",
+            "certificate_hash": "04390b0541583c23d88fd0e51e2f742c58c0826c"
+          }
+        },
+        {
+          "client_id": "762534502400-jaff6hr2qa2h878s7vhkgst8mbr8q9ki.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC8YWFyqPOwlNIcuAzQ03WldzPMSVQgXIA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "762534502400-jaff6hr2qa2h878s7vhkgst8mbr8q9ki.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
