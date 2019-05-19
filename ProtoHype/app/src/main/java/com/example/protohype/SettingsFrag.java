@@ -27,7 +27,7 @@ public class SettingsFrag extends Fragment implements View.OnClickListener {
         Button logoutButton = v.findViewById(R.id.sign_out_button);
         logoutButton.setOnClickListener(this);
 
-        Button profileButton = v.findViewById(R.id.sign_out_button);
+        Button profileButton = v.findViewById(R.id.view_profile_button);
         profileButton.setOnClickListener(this);
 
         return v;
