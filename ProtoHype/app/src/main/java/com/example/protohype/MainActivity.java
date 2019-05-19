@@ -39,7 +39,6 @@ public class MainActivity extends AppCompatActivity {
     private void updateUI(FirebaseUser account){
         if(account != null){
             // Already signed in, Hide button and continue to main app
-            findViewById(R.id.sign_in_button).setVisibility(View.GONE);
             startActivity(new Intent(this, FragActivity.class));
         }
         else{
