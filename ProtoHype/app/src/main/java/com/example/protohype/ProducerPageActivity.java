@@ -22,6 +22,12 @@ public class ProducerPageActivity extends AppCompatActivity {
                 case R.id.navigation_settings:
                     mTextMessage.setText(R.string.title_settings);
                     return true;
+                case R.id.navigation_add_text:
+                    mTextMessage.setText(R.string.title_add_text);
+                    return true;
+                case R.id.navigation_home:
+                    mTextMessage.setText(R.string.title_home);
+                    return true;
             }
             return false;
         }
