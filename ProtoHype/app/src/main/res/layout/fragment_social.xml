@@ -1,7 +1,47 @@
 <?xml version="1.0" encoding="utf-8"?>
 <android.support.constraint.ConstraintLayout
-    xmlns:android="http://schemas.android.com/apk/res/android" android:layout_width="match_parent"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:background="@android:color/holo_orange_light">
 
+    <EditText
+        android:id="@+id/socialPost2"
+        android:layout_width="360dp"
+        android:layout_height="243dp"
+        android:layout_marginStart="50dp"
+        android:layout_marginTop="276dp"
+        android:layout_marginEnd="50dp"
+        android:background="#FFFFFF"
+        android:ems="10"
+        android:fontFamily="@font/roboto"
+        android:gravity="start|top"
+        android:inputType="textMultiLine"
+        android:text="Hey John, I never would have thought my favourite potatos would have come from someone just a few hours away! Love the stuff, hope you keep on at it. - Harry Vanderhoof"
+        android:textSize="24sp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.485"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <EditText
+        android:id="@+id/SocialPost1"
+        android:layout_width="364dp"
+        android:layout_height="212dp"
+        android:layout_marginStart="50dp"
+        android:layout_marginTop="52dp"
+        android:layout_marginEnd="50dp"
+        android:background="#FFFFFF"
+        android:ems="10"
+        android:fontFamily="@font/roboto"
+        android:gravity="start|top"
+        android:inputType="textMultiLine"
+        android:text="Hello Mr. Smith, Thank you for your local potatos and lovely beef stew recipe, my family and I loved them. - Martha Kathburn"
+        android:textSize="24sp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.509"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
 </android.support.constraint.ConstraintLayout>
