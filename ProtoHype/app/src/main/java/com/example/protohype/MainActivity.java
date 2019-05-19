@@ -39,6 +39,7 @@ public class MainActivity extends AppCompatActivity {
     private void updateUI(FirebaseUser account){
         if(account != null){
             // Already signed in, Hide button and continue to main app
+
             startActivity(new Intent(this, ProducerPageActivity.class));
         }
         else{
