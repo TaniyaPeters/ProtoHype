@@ -5,7 +5,6 @@ import android.os.Bundle;
 import android.support.annotation.NonNull;
 import android.support.annotation.Nullable;
 import android.support.v4.app.Fragment;
-import android.util.Log;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
@@ -27,6 +26,9 @@ public class SettingsFrag extends Fragment implements View.OnClickListener {
 
         Button logoutButton = v.findViewById(R.id.sign_out_button);
         logoutButton.setOnClickListener(this);
+
+        Button profileButton = v.findViewById(R.id.sign_out_button);
+        profileButton.setOnClickListener(this);
 
         return v;
     }
