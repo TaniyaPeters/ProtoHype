@@ -24,6 +24,10 @@ import com.google.firebase.auth.FirebaseUser;
 import com.google.firebase.auth.GoogleAuthProvider;
 
 public class MainActivity extends AppCompatActivity {
+    private static final String TAG = "GoogleActivity";
+
+    private static final int RC_SIGN_IN = 9001;
+
     private FirebaseAuth mAuth;
     GoogleSignInClient mGoogleSignInClient;
 
@@ -92,7 +96,7 @@ public class MainActivity extends AppCompatActivity {
 
     public void loginWithGoogle(View v){
         Intent signInIntent = mGoogleSignInClient.getSignInIntent();
-        startActivityForResult(signInIntent, 1);
+        startActivityForResult(signInIntent, RC_SIGN_IN);
     }
 
     @Override
@@ -100,7 +104,7 @@ public class MainActivity extends AppCompatActivity {
         super.onActivityResult(requestCode, resultCode, data);
 
         // Result returned from launching the Intent from GoogleSignInApi.getSignInIntent(...);
-        if (requestCode == 1) {
+        if (requestCode == RC_SIGN_IN) {
             Task<GoogleSignInAccount> task = GoogleSignIn.getSignedInAccountFromIntent(data);
             try {
                 // Google Sign In was successful, authenticate with Firebase
@@ -130,7 +134,7 @@ public class MainActivity extends AppCompatActivity {
                         } else {
                             // If sign in fails, display a message to the user.
                             Log.w("GoogleLoginButton", "signInWithCredential:failure", task.getException());
-                            Snackbar.make(findViewById(R.id.google_login_button), "Authentication Failed.", Snackbar.LENGTH_SHORT).show();
+                            Snackbar.make(findViewById(R.id.main_layout), "Authentication Failed.", Snackbar.LENGTH_SHORT).show();
                             updateUI(null);
                         }
 
