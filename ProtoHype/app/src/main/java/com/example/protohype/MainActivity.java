@@ -90,7 +90,7 @@ public class MainActivity extends AppCompatActivity {
         if(account != null){
             // Already signed in, Hide button and continue to main app
             findViewById(R.id.sign_in_button).setVisibility(View.GONE);
-            startActivity(new Intent(this, ProducerPageActivity.class));
+            startActivity(new Intent(this, FragActivity.class));
         }
         else{
             // Enable Sign in Button

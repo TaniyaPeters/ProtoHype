@@ -22,8 +22,8 @@
         android:title="@string/title_social" />
 
     <item
-        android:id="@+id/navigation_settings"
+        android:id="@+id/navigation_personal"
         android:icon="@drawable/ic_home_black_24dp"
-        android:title="@string/title_settings" />
+        android:title="@string/title_personal" />
 
 </menu>

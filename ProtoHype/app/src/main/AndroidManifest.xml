@@ -10,7 +10,7 @@
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
         <activity
-            android:name=".ProducerPageActivity"
+            android:name=".FragActivity"
             android:label="@string/title_activity_producer_page"></activity>
         <activity android:name=".MainActivity">
             <intent-filter>
