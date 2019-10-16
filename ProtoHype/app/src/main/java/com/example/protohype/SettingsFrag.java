@@ -44,7 +44,6 @@ public class SettingsFrag extends Fragment implements View.OnClickListener {
             case R.id.view_profile_button:
                 mAuth.signOut();
                 startActivity(new Intent(getActivity(), PersonalActivity.class));
-                getActivity().finish();
                 break;
         }
     }
